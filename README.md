@@ -1,6 +1,8 @@
 frontend-resources
 ==================
 
+A list of resources and tutorials for front-ends as I come across them. 
+
 ##CSS 
 - [Animate.css (crossbrowser animations)](http://daneden.github.io/animate.css/)
 
@@ -14,6 +16,7 @@ frontend-resources
 ###Tutorials
 - [From jQuery to Angular mindset](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
 - [Remastering Angular animations](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
+- [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)
 
 ###Architecture
 - [Boilerplate (modified grunt tasks and server)](https://github.com/JonathanZWhite/ngbp-modified/)
