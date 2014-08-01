@@ -3,7 +3,7 @@ frontend-resources
 
 ##Node/Express
 
-Boilerplate (dust templating) https://github.com/JonathanZWhite/node-boilerplate
+[Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
 
 Dust https://github.com/linkedin/dustjs/wiki/Dust-Tutorial
 
