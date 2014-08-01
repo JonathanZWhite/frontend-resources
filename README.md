@@ -1,7 +1,7 @@
 frontend-resources
 ==================
 
-A list of resources and tutorials for front-ends as I come across them. 
+A list of resources and tutorials for front-end engineers. This also includes back-end languages and databases. 
 
 ##CSS 
 - [Animate.css (crossbrowser animations)](http://daneden.github.io/animate.css/)
