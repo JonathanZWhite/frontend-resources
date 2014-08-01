@@ -38,3 +38,4 @@ A list of resources and tutorials for front-ends as I come across them.
 - [Hammock driven development (video)](https://www.youtube.com/watch?v=f84n5oFoZBc)
 
 ##[PHP](https://php.net/)
+- [Laravel (MVC based framework](http://laravel.com/)
