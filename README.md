@@ -34,8 +34,8 @@ A list of resources and tutorials for front-ends as I come across them.
 - [Unsplash with search and filtering](http://www.arthurweill.fr/Unsplash/en)
 - [Jaymantri](http://jaymantri.com)
 
-###Extra Resources
-- [Hammock driven development (video)](https://www.youtube.com/watch?v=f84n5oFoZBc)
-
 ##[PHP](https://php.net/)
 - [Laravel (MVC based framework)](http://laravel.com/)
+
+##Extra Resources
+- [Hammock driven development (video)](https://www.youtube.com/watch?v=f84n5oFoZBc)
