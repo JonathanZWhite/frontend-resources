@@ -9,6 +9,10 @@ Dust https://github.com/linkedin/dustjs/wiki/Dust-Tutorial
 
 ##Angular
 
+###Tutorials
+From jQuery to Angular mindset: 
+- http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background
+
 ###Architecture
 Boilerplate (modified with grunt server) https://github.com/JonathanZWhite/ngbp-modified/
 
