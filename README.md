@@ -3,4 +3,5 @@ frontend-resources
 
 #Angular
 
-Moment http://momentjs.com/
+Moment https://www.npmjs.org/package/angular-momentjs 
+  - Docs http://momentjs.com/
