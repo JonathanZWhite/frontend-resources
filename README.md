@@ -11,7 +11,7 @@ A list of resources and tutorials for front-ends as I come across them.
 - [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
 - [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
 
-##Angular
+##[Angular](https://angularjs.org/)
 
 ###Tutorials
 - [From jQuery to Angular mindset](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
@@ -35,3 +35,5 @@ A list of resources and tutorials for front-ends as I come across them.
 
 ###Extra Resources
 - [Hammock driven development (video)](https://www.youtube.com/watch?v=f84n5oFoZBc)
+
+##[PHP](https://php.net/)
