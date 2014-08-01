@@ -10,6 +10,7 @@ A list of resources and tutorials for front-ends as I come across them.
 
 - [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
 - [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
+- [Jade templating](http://jade-lang.com/)
 
 ##[Angular](https://angularjs.org/)
 
