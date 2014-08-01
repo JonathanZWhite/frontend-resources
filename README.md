@@ -37,5 +37,11 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 ##[PHP](https://php.net/)
 - [Laravel (MVC based framework)](http://laravel.com/)
 
+##Databases
+- [MySQL](http://www.mysql.com/)
+- [Redis](http://redis.io/)
+- [MongoDB](http://www.mongodb.org/)
+- [CouchDB](http://couchdb.apache.org/)
+
 ##Extra Resources
 - [Hammock driven development (video)](https://www.youtube.com/watch?v=f84n5oFoZBc)
