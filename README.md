@@ -15,9 +15,16 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 
 ##[Node](http://nodejs.org/)/[Express](http://expressjs.com/)
 
-- [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
+###Tutorials
+- [Node School](http://nodeschool.io/)
+
+###Templating
 - [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
 - [Jade templating](http://jade-lang.com/)
+
+### Resources
+- [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
+
 
 ##[Angular](https://angularjs.org/)
 
