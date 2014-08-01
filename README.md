@@ -14,6 +14,7 @@ Boilerplate (modified with grunt server) https://github.com/JonathanZWhite/ngbp-
 
 ###Animations
 (tutorial) http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html
+(resource) http://daneden.github.io/animate.css/
 
 ###Dependencies
 
