@@ -9,7 +9,11 @@ Dust https://github.com/linkedin/dustjs/wiki/Dust-Tutorial
 
 ##Angular
 
+###Architecture
 Boilerplate (modified with grunt server) https://github.com/JonathanZWhite/ngbp-modified/
+
+###Animations
+(tutorial) http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html
 
 ###Dependencies
 
