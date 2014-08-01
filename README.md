@@ -9,6 +9,7 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 ##Javascript
 
 ###Tutorials
+- [Code Academy](http://www.codecademy.com/en/tracks/javascript)
 - [Professional Javascript for Web Developers (includes design patterns and best practices)](http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691)
 - [Object oriented javascript (quick overview)](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
 
@@ -40,7 +41,7 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 - [Unsplash with search and filtering](http://www.arthurweill.fr/Unsplash/en)
 - [Jaymantri](http://jaymantri.com)
 
-##[PHP]
+##[PHP](https://php.net/)
 ###Tutorials
 - [Code Academy](http://www.codecademy.com/en/tracks/php)
 - [Object Oriented PHP (quick overview)](http://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762)
