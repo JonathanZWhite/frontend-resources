@@ -24,3 +24,12 @@ Moment (angular version): Parse, validate, manipulate, and display dates in java
 
 AngularUI Router (built into boilerplate): The de-facto solution to flexible routing with nested views
 - https://github.com/angular-ui/ui-router
+
+###Stock Images(free)
+
+Unsplash 
+- Original http://unsplash.com/
+- Search and filter http://www.arthurweill.fr/Unsplash/en
+- 
+Jaymantri
+- http://jaymantri.com
