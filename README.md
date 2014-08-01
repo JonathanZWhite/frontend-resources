@@ -16,8 +16,8 @@ frontend-resources
 - [Remastering Angular animations](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 
 ###Architecture
-[Boilerplate (modified grunt tasks and server)](https://github.com/JonathanZWhite/ngbp-modified/)
-[Boilerplate (original and unmodified)](https://github.com/ngbp/ngbp)
+- [Boilerplate (modified grunt tasks and server)](https://github.com/JonathanZWhite/ngbp-modified/)
+- [Boilerplate (original and unmodified)](https://github.com/ngbp/ngbp)
 
 ###Dependencies
 
