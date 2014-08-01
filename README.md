@@ -44,12 +44,6 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 - [Moment (angular version): Parse, validate, manipulate, and display dates in javascript](https://github.com/urish/angular-moment)
 - [AngularUI Router (built into boilerplate): The de-facto solution to flexible routing with nested views](https://github.com/angular-ui/ui-router)
 
-###Stock Images(free)
-
-- [Unsplash](http://unsplash.com/)
-- [Unsplash with search and filtering](http://www.arthurweill.fr/Unsplash/en)
-- [Jaymantri](http://jaymantri.com)
-
 ##[PHP](https://php.net/)
 ###Tutorials
 - [Code Academy](http://www.codecademy.com/en/tracks/php)
@@ -66,3 +60,9 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 
 ##Extra Resources
 - [Hammock driven development (video)](https://www.youtube.com/watch?v=f84n5oFoZBc)
+
+###Stock Images(free)
+
+- [Unsplash](http://unsplash.com/)
+- [Unsplash with search and filtering](http://www.arthurweill.fr/Unsplash/en)
+- [Jaymantri](http://jaymantri.com)
