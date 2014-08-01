@@ -6,7 +6,7 @@ A list of resources and tutorials for front-ends as I come across them.
 ##CSS 
 - [Animate.css (crossbrowser animations)](http://daneden.github.io/animate.css/)
 
-##Node/Express
+##[Node](http://nodejs.org/)/[Express](http://expressjs.com/)
 
 - [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
 - [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
