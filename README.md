@@ -30,6 +30,6 @@ AngularUI Router (built into boilerplate): The de-facto solution to flexible rou
 Unsplash 
 - Original http://unsplash.com/
 - Search and filter http://www.arthurweill.fr/Unsplash/en
-- 
+
 Jaymantri
 - http://jaymantri.com
