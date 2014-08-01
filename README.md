@@ -36,6 +36,7 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 ###Architecture
 - [Boilerplate (modified grunt tasks and server)](https://github.com/JonathanZWhite/ngbp-modified/)
 - [Boilerplate (original and unmodified)](https://github.com/ngbp/ngbp)
+- [Angular-app (good as reference material)](https://github.com/angular-app/angular-app)
 
 ###Dependencies
 
