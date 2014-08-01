@@ -30,6 +30,7 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 
 ###Tutorials
 - [From jQuery to Angular mindset](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
+- [Why Angular over jQuery](http://stackoverflow.com/questions/18414012/why-use-angularjs-instead-of-jquery)
 - [Remastering Angular animations](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 - [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)
 
