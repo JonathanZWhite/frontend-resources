@@ -11,6 +11,6 @@ Dust https://github.com/linkedin/dustjs/wiki/Dust-Tutorial
 
 Boilerplate (modified with grunt server) https://github.com/JonathanZWhite/ngbp-modified/
 
-###Packages
+###Dependencies
 
 Moment (angular version) https://github.com/urish/angular-moment
