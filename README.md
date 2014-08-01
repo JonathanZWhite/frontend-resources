@@ -14,5 +14,4 @@ Boilerplate (modified with grunt server) https://github.com/JonathanZWhite/ngbp-
 ###Dependencies
 
 Moment (angular version): Parse, validate, manipulate, and display dates in javascript
-
-https://github.com/urish/angular-moment
+- https://github.com/urish/angular-moment
