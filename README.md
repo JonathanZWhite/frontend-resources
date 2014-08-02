@@ -52,6 +52,8 @@ Node.js is a runtime environment and a library for running applications written 
 - [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
 
 ##[PHP](https://php.net/)
+PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language.
+
 ###Tutorials
 - [Code Academy](http://www.codecademy.com/en/tracks/php)
 - [Object Oriented PHP (quick overview)](http://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762)
