@@ -58,7 +58,7 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 - [MongoDB](http://www.mongodb.org/)
 
 ###[CouchDB](http://couchdb.apache.org/)
-####Tutorials
+Tutorials
 - [Overview](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
 
 ##Extra Resources
