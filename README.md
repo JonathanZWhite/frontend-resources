@@ -39,6 +39,7 @@ D3.js (or just D3 for Data-Driven Documents) is a JavaScript library that uses d
 - [Making bar charts](http://bost.ocks.org/mike/bar/)
 
 ##[Node](http://nodejs.org/)/[Express](http://expressjs.com/)
+Node.js is a runtime environment and a library for running applications written in JavaScript outside the browser (for example, on the server). Node.js applications are designed to maximize throughput and efficiency, using non-blocking I/O and asynchronous events. Node.js applications run single-threaded, although Node.js uses multiple threads for file and network events. Node.js is commonly used for real time applications due to its asynchronous nature, allowing applications to display information faster for users without the need for refreshing.
 
 ###Tutorials
 - [Node School](http://nodeschool.io/)
