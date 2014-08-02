@@ -107,11 +107,11 @@ PHP is a server-side scripting language designed for web development but also us
 - [Laravel (MVC based framework)](http://laravel.com/)
 
 ##Databases
-- [MySQL](http://www.mysql.com/)
-- [Redis](http://redis.io/)
-- [MongoDB](http://www.mongodb.org/)
 
-###[CouchDB](http://couchdb.apache.org/)
+####[MySQL](http://www.mysql.com/)
+####[Redis](http://redis.io/)
+####[MongoDB](http://www.mongodb.org/)
+####[CouchDB](http://couchdb.apache.org/)
 Tutorials
 - [Overview](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
 
