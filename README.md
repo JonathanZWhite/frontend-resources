@@ -3,6 +3,9 @@ frontend-resources
 
 A curated list of resources and tutorials for front-end engineers
 
+##Table of Contents
+- [CSS](/#css)
+
 ##CSS 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. 
 - [Animate.css (crossbrowser animations)](http://daneden.github.io/animate.css/)
