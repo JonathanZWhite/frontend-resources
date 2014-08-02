@@ -56,7 +56,10 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 - [MySQL](http://www.mysql.com/)
 - [Redis](http://redis.io/)
 - [MongoDB](http://www.mongodb.org/)
-- [CouchDB](http://couchdb.apache.org/)
+
+###[CouchDB](http://couchdb.apache.org/)
+####Tutorials
+- [Overview](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
 
 ##Extra Resources
 - [Hammock driven development (video)](https://www.youtube.com/watch?v=f84n5oFoZBc)
