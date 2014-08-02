@@ -14,6 +14,7 @@ A curated list of resources and tutorials for front-end engineers
 - [Object oriented javascript (quick overview)](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
 
 ##[Angular](https://angularjs.org/)
+AngularJS is an open-source web application framework, maintained by Google and community, that assists with creating single-page applications, one-page web applications that only require HTML, CSS, and JavaScript on the client side. Its goal is to augment web applications with model–view–controller (MVC) capability, in an effort to make both development and testing easier.
 
 ###Tutorials
 - [From jQuery to Angular mindset](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
@@ -32,6 +33,7 @@ A curated list of resources and tutorials for front-end engineers
 - [AngularUI Router (built into boilerplate): The de-facto solution to flexible routing with nested views](https://github.com/angular-ui/ui-router)
 
 ##[D3.js](http://d3js.org/)
+D3.js (or just D3 for Data-Driven Documents) is a JavaScript library that uses digital data to drive the creation and control of dynamic and interactive graphical forms which run in web browsers. It is a tool for data visualization in W3C-compliant computing, making use of the widely implemented Scalable Vector Graphics (SVG), JavaScript, HTML5, and Cascading Style Sheets (CSS3) standards.
 
 ###Tutorials
 - [Making bar charts](http://bost.ocks.org/mike/bar/)
