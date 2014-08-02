@@ -41,7 +41,7 @@ The Yahoo! User Interface Library is an open-source JavaScript library for build
 Automation, performing repetitive tasks like minification, compilation, unit testing and linting.
 
 ####[D3.js](http://d3js.org/)
-D3.js (or just D3 for Data-Driven Documents) is a JavaScript library that uses digital data to drive the creation and control of dynamic and interactive graphical forms which run in web browsers. It is a tool for data visualization in W3C-compliant computing, making use of the widely implemented Scalable Vector Graphics (SVG), JavaScript, HTML5, and Cascading Style Sheets (CSS3) standards.
+D3.js (or just D3 for Data-Driven Documents) is a JavaScript library that uses digital data to drive the creation and control of dynamic and interactive graphical forms which run in web browsers.
 
 Tutorials
 - [Making bar charts](http://bost.ocks.org/mike/bar/)
