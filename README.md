@@ -27,21 +27,21 @@ JavaScript (JS) is a dynamic computer programming language.[5] It is most common
 
 ###Libraries
 
-[jQuery](http://jquery.com/)
+####[jQuery](http://jquery.com/)
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
 
-[YUI](https://yuilibrary.com/)
+####[YUI](https://yuilibrary.com/)
 The Yahoo! User Interface Library is an open-source JavaScript library for building richly interactive web applications using techniques such as Ajax, DHTML, and DOM scripting.
 
-[D3.js](http://d3js.org/)
+####[D3.js](http://d3js.org/)
 D3.js (or just D3 for Data-Driven Documents) is a JavaScript library that uses digital data to drive the creation and control of dynamic and interactive graphical forms which run in web browsers. It is a tool for data visualization in W3C-compliant computing, making use of the widely implemented Scalable Vector Graphics (SVG), JavaScript, HTML5, and Cascading Style Sheets (CSS3) standards.
 
-###Tutorials
+Tutorials
 - [Making bar charts](http://bost.ocks.org/mike/bar/)
 
 ###Frameworks
 
-[Angular](https://angularjs.org/)
+####[Angular](https://angularjs.org/)
 AngularJS is an open-source web application framework, maintained by Google and community, that assists with creating single-page applications, one-page web applications that only require HTML, CSS, and JavaScript on the client side. Its goal is to augment web applications with model–view–controller (MVC) capability, in an effort to make both development and testing easier.
 
 Tutorials
@@ -59,12 +59,6 @@ Dependencies
 
 - [Moment (angular version): Parse, validate, manipulate, and display dates in javascript](https://github.com/urish/angular-moment)
 - [AngularUI Router (built into boilerplate): The de-facto solution to flexible routing with nested views](https://github.com/angular-ui/ui-router)
-
-##[D3.js](http://d3js.org/)
-D3.js (or just D3 for Data-Driven Documents) is a JavaScript library that uses digital data to drive the creation and control of dynamic and interactive graphical forms which run in web browsers. It is a tool for data visualization in W3C-compliant computing, making use of the widely implemented Scalable Vector Graphics (SVG), JavaScript, HTML5, and Cascading Style Sheets (CSS3) standards.
-
-###Tutorials
-- [Making bar charts](http://bost.ocks.org/mike/bar/)
 
 ##[Node](http://nodejs.org/)/[Express](http://expressjs.com/)
 Node.js is a runtime environment and a library for running applications written in JavaScript outside the browser (for example, on the server). Node.js applications are designed to maximize throughput and efficiency, using non-blocking I/O and asynchronous events. Node.js applications run single-threaded, although Node.js uses multiple threads for file and network events. Node.js is commonly used for real time applications due to its asynchronous nature, allowing applications to display information faster for users without the need for refreshing.
