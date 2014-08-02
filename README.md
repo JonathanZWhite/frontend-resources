@@ -55,16 +55,24 @@ Architecture
 - [Boilerplate (original and unmodified)](https://github.com/ngbp/ngbp)
 - [Angular-app (good as reference material)](https://github.com/angular-app/angular-app)
 
+####[React](http://facebook.github.io/react/)
+React is a JavaScript library for building user interfaces. It's declarative, efficient, and extremely flexible. What's more, it works with the libraries and frameworks that you already know.
+
+- Resources coming soon...
+
 Dependencies
 
 - [Moment (angular version): Parse, validate, manipulate, and display dates in javascript](https://github.com/urish/angular-moment)
 - [AngularUI Router (built into boilerplate): The de-facto solution to flexible routing with nested views](https://github.com/angular-ui/ui-router)
 
-##[Node](http://nodejs.org/)/[Express](http://expressjs.com/)
+##[Node](http://nodejs.org/)
 Node.js is a runtime environment and a library for running applications written in JavaScript outside the browser (for example, on the server). Node.js applications are designed to maximize throughput and efficiency, using non-blocking I/O and asynchronous events. Node.js applications run single-threaded, although Node.js uses multiple threads for file and network events. Node.js is commonly used for real time applications due to its asynchronous nature, allowing applications to display information faster for users without the need for refreshing.
 
 ###Tutorials
 - [Node School](http://nodeschool.io/)
+
+###Frameworks
+- [Express](http://expressjs.com/)
 
 ###Templating
 - [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
