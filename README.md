@@ -37,6 +37,9 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 ####[YUI](https://yuilibrary.com/)
 The Yahoo! User Interface Library is an open-source JavaScript library for building richly interactive web applications using techniques such as Ajax, DHTML, and DOM scripting.
 
+####[Grunt](http://gruntjs.com/)
+Automation, performing repetitive tasks like minification, compilation, unit testing and linting.
+
 ####[D3.js](http://d3js.org/)
 D3.js (or just D3 for Data-Driven Documents) is a JavaScript library that uses digital data to drive the creation and control of dynamic and interactive graphical forms which run in web browsers. It is a tool for data visualization in W3C-compliant computing, making use of the widely implemented Scalable Vector Graphics (SVG), JavaScript, HTML5, and Cascading Style Sheets (CSS3) standards.
 
@@ -58,6 +61,9 @@ Architecture
 - [Boilerplate (modified grunt tasks and server)](https://github.com/JonathanZWhite/ngbp-modified/)
 - [Boilerplate (original and unmodified)](https://github.com/ngbp/ngbp)
 - [Angular-app (good as reference material)](https://github.com/angular-app/angular-app)
+
+Testing
+- [Protractor (E2E testing)](https://github.com/angular/protractor)
 
 ####[React](http://facebook.github.io/react/)
 React is a JavaScript library for building user interfaces. It's declarative, efficient, and extremely flexible. What's more, it works with the libraries and frameworks that you already know.
@@ -81,6 +87,10 @@ Node.js is a runtime environment and a library for running applications written 
 ###Templating
 - [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
 - [Jade templating](http://jade-lang.com/)
+
+###Testing
+- [Mocha](http://visionmedia.github.io/mocha/)
+- [Arrow](https://github.com/yahoo/arrow)
 
 ### Resources
 - [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
