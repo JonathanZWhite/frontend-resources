@@ -10,6 +10,7 @@ A curated list of resources and tutorials for front-end engineers
 - [Node/Express](/README.md#nodeexpress)
 - [PHP](/README.md#php)
 - [Databases](/README.md#databases)
+- [Extra Resources](/README.md#extra-resources)
 
 ##CSS 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. 
