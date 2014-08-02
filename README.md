@@ -48,7 +48,7 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 ###Tutorials
 - [Code Academy](http://www.codecademy.com/en/tracks/php)
 - [Object Oriented PHP (quick overview)](http://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762)
-
+- [The MVC Pattern and PHP](http://www.sitepoint.com/the-mvc-pattern-and-php-1/)
 ###Frameworks
 - [Laravel (MVC based framework)](http://laravel.com/)
 
