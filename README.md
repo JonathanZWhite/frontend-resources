@@ -7,6 +7,7 @@ A curated list of resources and tutorials for front-end engineers
 - [Animate.css (crossbrowser animations)](http://daneden.github.io/animate.css/)
 
 ##Javascript
+JavaScript (JS) is a dynamic computer programming language.[5] It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed.
 
 ###Tutorials
 - [Code Academy](http://www.codecademy.com/en/tracks/javascript)
