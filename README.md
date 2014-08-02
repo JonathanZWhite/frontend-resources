@@ -6,7 +6,7 @@ A curated list of resources and tutorials for front-end engineers
 ##Table of Contents
 - [CSS](/README.md#css)
 - [Javascript](/README.md#javascript)
-- [Angular](/README.md#angular)
+- [Javascript Frameworks](/README.md#javascript-frameworks)
 - [Node/Express](/README.md#nodeexpress)
 - [PHP](/README.md#php)
 - [Databases](/README.md#databases)
@@ -25,21 +25,22 @@ JavaScript (JS) is a dynamic computer programming language.[5] It is most common
 - [Professional Javascript for Web Developers (includes design patterns and best practices)](http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691)
 - [Object oriented javascript (quick overview)](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
 
-##[Angular](https://angularjs.org/)
+##Javascript Frameworks
+###[Angular](https://angularjs.org/)
 AngularJS is an open-source web application framework, maintained by Google and community, that assists with creating single-page applications, one-page web applications that only require HTML, CSS, and JavaScript on the client side. Its goal is to augment web applications with model–view–controller (MVC) capability, in an effort to make both development and testing easier.
 
-###Tutorials
+Tutorials
 - [From jQuery to Angular mindset](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
 - [Why Angular over jQuery](http://stackoverflow.com/questions/18414012/why-use-angularjs-instead-of-jquery)
 - [Remastering Angular animations](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 - [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)
 
-###Architecture
+Architecture
 - [Boilerplate (modified grunt tasks and server)](https://github.com/JonathanZWhite/ngbp-modified/)
 - [Boilerplate (original and unmodified)](https://github.com/ngbp/ngbp)
 - [Angular-app (good as reference material)](https://github.com/angular-app/angular-app)
 
-###Dependencies
+Dependencies
 
 - [Moment (angular version): Parse, validate, manipulate, and display dates in javascript](https://github.com/urish/angular-moment)
 - [AngularUI Router (built into boilerplate): The de-facto solution to flexible routing with nested views](https://github.com/angular-ui/ui-router)
