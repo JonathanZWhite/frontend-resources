@@ -6,6 +6,7 @@ A curated list of resources and tutorials for front-end engineers
 ##CSS 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. 
 - [Animate.css (crossbrowser animations)](http://daneden.github.io/animate.css/)
+- [Codrops playground (inspirational css effects)](http://tympanus.net/codrops/category/playground/)
 
 ##Javascript
 JavaScript (JS) is a dynamic computer programming language.[5] It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed.
