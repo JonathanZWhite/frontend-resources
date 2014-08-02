@@ -44,6 +44,11 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 - [Moment (angular version): Parse, validate, manipulate, and display dates in javascript](https://github.com/urish/angular-moment)
 - [AngularUI Router (built into boilerplate): The de-facto solution to flexible routing with nested views](https://github.com/angular-ui/ui-router)
 
+##[D3.js](http://d3js.org/)
+
+###Tutorials
+- [Making bar charts](http://bost.ocks.org/mike/bar/)
+
 ##[PHP](https://php.net/)
 ###Tutorials
 - [Code Academy](http://www.codecademy.com/en/tracks/php)
