@@ -13,19 +13,6 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 - [Professional Javascript for Web Developers (includes design patterns and best practices)](http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691)
 - [Object oriented javascript (quick overview)](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
 
-##[Node](http://nodejs.org/)/[Express](http://expressjs.com/)
-
-###Tutorials
-- [Node School](http://nodeschool.io/)
-
-###Templating
-- [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
-- [Jade templating](http://jade-lang.com/)
-
-### Resources
-- [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
-
-
 ##[Angular](https://angularjs.org/)
 
 ###Tutorials
@@ -48,6 +35,18 @@ A list of resources and tutorials for front-end engineers. This also includes ba
 
 ###Tutorials
 - [Making bar charts](http://bost.ocks.org/mike/bar/)
+
+##[Node](http://nodejs.org/)/[Express](http://expressjs.com/)
+
+###Tutorials
+- [Node School](http://nodeschool.io/)
+
+###Templating
+- [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
+- [Jade templating](http://jade-lang.com/)
+
+### Resources
+- [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
 
 ##[PHP](https://php.net/)
 ###Tutorials
