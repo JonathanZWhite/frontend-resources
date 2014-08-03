@@ -74,7 +74,7 @@ Testing
 ####[React](http://facebook.github.io/react/)
 React is a JavaScript library for building user interfaces. It's declarative, efficient, and extremely flexible. What's more, it works with the libraries and frameworks that you already know.
 
-- Resources coming soon...
+- [Intro to the React Framework (great overview](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 
 ##[Node](http://nodejs.org/)
 Node.js is a runtime environment and a library for running applications written in JavaScript outside the browser (for example, on the server). Node.js applications are designed to maximize throughput and efficiency, using non-blocking I/O and asynchronous events. Node.js applications run single-threaded, although Node.js uses multiple threads for file and network events. Node.js is commonly used for real time applications due to its asynchronous nature, allowing applications to display information faster for users without the need for refreshing.
