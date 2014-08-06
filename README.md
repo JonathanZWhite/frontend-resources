@@ -159,8 +159,8 @@ Tutorials
 - [Pttrns (A curated library of iPhone and iPad user interface patterns)](http://www.pttrns.com/)
 
 ###Reading Material
-- [Designing Design](http://www.amazon.com/Designing-Design-Kenya-Hara/dp/3037784504/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=#customerReviews)
-- [Thoughts on Design](http://www.amazon.com/exec/obidos/ASIN/081187544X/ref=nosim/0sil8)
+- [Designing Design (book)](http://www.amazon.com/Designing-Design-Kenya-Hara/dp/3037784504/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=#customerReviews)
+- [Thoughts on Design (book)](http://www.amazon.com/exec/obidos/ASIN/081187544X/ref=nosim/0sil8)
 - [Apple's Human Interface Guidelines](https://developer.apple.com/library/iOS/documentation/userexperience/conceptual/mobilehig/)
 - [Google's Material Design Guidelines](http://www.google.com/design/spec/material-design/introduction.html)
 - [My Dream Design Curriculum](https://medium.com/the-year-of-the-looking-glass/my-dream-design-curriculum-ace1d0475289)
