@@ -84,6 +84,7 @@ Node.js is a runtime environment and a library for running applications written 
 
 ###Tutorials
 - [Node School](http://nodeschool.io/)
+- [Overview of Node with Mongo and Express](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 
 ###Frameworks
 - [Express](http://expressjs.com/)
