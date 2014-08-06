@@ -13,7 +13,7 @@ A curated list of resources and tutorials for front-end engineers
 - [Node](/README.md#node)
 - [PHP](/README.md#php)
 - [Databases](/README.md#databases)
-- [UI/UX Design](/README.md##uiux-design)
+- [UI/UX Design](/README.md#uiux-design)
 - [Extra Resources](/README.md#extra-resources)
 
 ##CSS 
