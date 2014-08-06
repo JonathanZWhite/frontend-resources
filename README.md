@@ -169,6 +169,8 @@ Tutorials
 
 ###Inspiration
 - [Pttrns (A curated library of iPhone and iPad user interface patterns)](http://www.pttrns.com/)
+- [Dribbble (Show and tell for designers)](https://dribbble.com/)
+- [Behance (Showcase and discover creative work)](https://www.behance.net/)
 
 ###Reading Material
 - [Designing Design (book)](http://www.amazon.com/Designing-Design-Kenya-Hara/dp/3037784504/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=#customerReviews)
