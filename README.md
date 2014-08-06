@@ -9,6 +9,7 @@ A curated list of resources and tutorials for front-end engineers
   - [Frameworks](/README.md#frameworks)
     - [Angular](/README.md#angular)
     - [React](/README.md#react)
+    - [Polymer](/README.md#polyer)
 - [Node](/README.md#node)
 - [PHP](/README.md#php)
 - [Databases](/README.md#databases)
@@ -80,6 +81,13 @@ Tutorials
 
 - [Intro to the React Framework (great overview)](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 - [Rethinking Best Practices (video)](https://www.youtube.com/watch?v=DgVS-zXgMTk)
+
+####[Polymer](http://www.polymer-project.org/)
+Library that uses the latest web technologies to create custom HTML elements.
+
+Tutorials
+
+Coming soon...
 
 ##[Node](http://nodejs.org/)
 Node.js is a runtime environment and a library for running applications written in JavaScript outside the browser (for example, on the server). Node.js applications are designed to maximize throughput and efficiency, using non-blocking I/O and asynchronous events. Node.js applications run single-threaded, although Node.js uses multiple threads for file and network events. Node.js is commonly used for real time applications due to its asynchronous nature, allowing applications to display information faster for users without the need for refreshing.
