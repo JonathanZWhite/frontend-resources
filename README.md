@@ -61,6 +61,7 @@ Tutorials
 - [Remastering Angular animations](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 - [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)
 - [Recordings of Angular meetups (video)](https://www.youtube.com/playlist?list=PL53194065BA276ACA)
+- [Angular design patterns and best practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
 - [Using Animate.css with Angular](http://www.jvandemo.com/how-to-create-cool-animations-with-angularjs-1-2-and-animate-css/)
 
 Architecture
