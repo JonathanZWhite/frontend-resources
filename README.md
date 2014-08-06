@@ -142,9 +142,6 @@ PHP is a server-side scripting language designed for web development but also us
 ####[MySQL](http://www.mysql.com/)
 MySQL is the most popular database system used with PHP.
 
-####[Redis](http://redis.io/)
-Redis is an open source, BSD licensed, advanced key-value cache and store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets, sorted sets, bitmaps and hyperloglogs.
-
 ####[MongoDB](http://www.mongodb.org/)
 MongoDB (from "humongous") is an open-source document database, and the leading NoSQL database.
 
