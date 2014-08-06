@@ -139,6 +139,7 @@ Tutorials
 
 ##Extra Resources
 - [Hammock driven development (video)](https://www.youtube.com/watch?v=f84n5oFoZBc)
+- [How to be a great software developer](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer)
 
 ###Stock Images(free)
 
