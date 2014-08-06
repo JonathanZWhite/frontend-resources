@@ -152,6 +152,12 @@ CouchDB is a database that completely embraces the web. Store your data with JSO
 Tutorials
 - [Overview](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
 
+##Design
+
+###Reading Material
+- [Designing Design](http://www.amazon.com/Designing-Design-Kenya-Hara/dp/3037784504/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=#customerReviews)
+- [Thoughts on Design](http://www.amazon.com/exec/obidos/ASIN/081187544X/ref=nosim/0sil8)
+
 ##Extra Resources
 
 ###Reading Material
