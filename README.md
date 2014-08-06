@@ -153,9 +153,14 @@ Tutorials
 - [Overview](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
 
 ##Extra Resources
+
+###Reading Material
 - [Hammock driven development (video)](https://www.youtube.com/watch?v=f84n5oFoZBc)
 - [How to be a great software developer](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer)
 
+###Tools
+- [Yeoman Generator (scaffolding)](http://yeoman.io/)
+- 
 ###Stock Images(free)
 
 - [Unsplash](http://unsplash.com/)
