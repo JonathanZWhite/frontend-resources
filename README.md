@@ -84,8 +84,9 @@ Testing
 React is a JavaScript library for building user interfaces. It's declarative, efficient, and extremely flexible. What's more, it works with the libraries and frameworks that you already know.
 
 Tutorials
-
 - [Intro to the React Framework (great overview)](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
+
+Reading Material 
 - [Rethinking Best Practices (video)](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 
 ####[Polymer](http://www.polymer-project.org/)
