@@ -9,7 +9,7 @@ A curated list of resources and tutorials for front-end engineers
   - [Frameworks](/README.md#frameworks)
     - [Angular](/README.md#angular)
     - [React](/README.md#react)
-    - [Polymer](/README.md#polyer)
+    - [Polymer](/README.md#polymer)
 - [Node](/README.md#node)
 - [PHP](/README.md#php)
 - [Databases](/README.md#databases)
