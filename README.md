@@ -85,6 +85,7 @@ Tutorials
 Node.js is a runtime environment and a library for running applications written in JavaScript outside the browser (for example, on the server). Node.js applications are designed to maximize throughput and efficiency, using non-blocking I/O and asynchronous events. Node.js applications run single-threaded, although Node.js uses multiple threads for file and network events. Node.js is commonly used for real time applications due to its asynchronous nature, allowing applications to display information faster for users without the need for refreshing.
 
 ###Tutorials
+- [Node for Beginners](http://code.tutsplus.com/tutorials/nodejs-for-beginners--net-26314)
 - [Node School](http://nodeschool.io/)
 - [Overview of Node with Mongo and Express](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 
