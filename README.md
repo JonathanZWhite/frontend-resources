@@ -126,6 +126,17 @@ Reading Material
 ### Resources
 - [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
 
+##[Ruby](https://www.ruby-lang.org/en/)
+A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
+
+###Frameworks
+
+####[Rails](http://rubyonrails.org/)
+
+Tutorials
+- [Rails for Zombies (game)](http://railsforzombies.org/)
+- [Ruby on Rails Tutorial by Michael Hartl (book)](http://ruby.railstutorial.org/chapters)
+
 ##[PHP](https://php.net/)
 PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language.
 
