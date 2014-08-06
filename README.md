@@ -6,8 +6,10 @@ A curated list of resources and tutorials for front-end engineers
 ##Table of Contents
 - [CSS](/README.md#css)
 - [Javascript](/README.md#javascript)
-- [Javascript Frameworks](/README.md#javascript-frameworks)
-- [Node](/README.md#nodes)
+  - [Frameworks](/README.md#frameworks)
+    - [Angular](/README.md#angular)
+    - [React](/README.md#react)
+- [Node](/README.md#node)
 - [PHP](/README.md#php)
 - [Databases](/README.md#databases)
 - [Extra Resources](/README.md#extra-resources)
