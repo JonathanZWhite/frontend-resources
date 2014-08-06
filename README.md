@@ -60,6 +60,7 @@ Tutorials
 - [Why Angular over jQuery](http://stackoverflow.com/questions/18414012/why-use-angularjs-instead-of-jquery)
 - [Remastering Angular animations](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 - [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)
+- [Recordings of Angular meetups](https://www.youtube.com/playlist?list=PL53194065BA276ACA)
 
 Architecture
 - [Boilerplate (modified grunt tasks and server)](https://github.com/JonathanZWhite/ngbp-modified/)
