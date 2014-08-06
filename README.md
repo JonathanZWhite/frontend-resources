@@ -162,6 +162,7 @@ Tutorials
 - [Thoughts on Design](http://www.amazon.com/exec/obidos/ASIN/081187544X/ref=nosim/0sil8)
 - [Apple's Human Interface Guidelines](https://developer.apple.com/library/iOS/documentation/userexperience/conceptual/mobilehig/)
 - [Google's Material Design Guidelines](http://www.google.com/design/spec/material-design/introduction.html)
+- [My Dream Design Curriculum](https://medium.com/the-year-of-the-looking-glass/my-dream-design-curriculum-ace1d0475289)
 
 ##Extra Resources
 
