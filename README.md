@@ -11,6 +11,7 @@ A curated list of resources and tutorials for front-end engineers
     - [React](/README.md#react)
     - [Polymer](/README.md#polymer)
 - [Node](/README.md#node)
+- [Ruby](/README.md##ruby)
 - [PHP](/README.md#php)
 - [Databases](/README.md#databases)
 - [UI/UX Design](/README.md#uiux-design)
