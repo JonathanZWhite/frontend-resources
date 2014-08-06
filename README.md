@@ -160,7 +160,7 @@ Tutorials
 
 ###Tools
 - [Yeoman Generator (scaffolding)](http://yeoman.io/)
-- 
+
 ###Stock Images(free)
 
 - [Unsplash](http://unsplash.com/)
