@@ -16,6 +16,7 @@ A curated list of resources and tutorials for front-end engineers
 - [Node](/README.md#node)
   - [Tutorials](/README.md#tutorials-1)
   - [Frameworks](/README.md#frameworks-1)
+  - [Architecture](/README.md#architecture)
   - [Templating](/README.md#templating)
   - [Testing](/README.md#testing)
 - [Ruby](/README.md#ruby)
