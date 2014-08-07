@@ -128,6 +128,10 @@ Reading Material
 ###Frameworks
 - [Express](http://expressjs.com/)
 
+###Architecture
+- [Hackathon Starter](https://github.com/sahat/hackathon-starter)
+- [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
+
 ###Templating
 - [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
 - [Jade templating](http://jade-lang.com/)
@@ -135,9 +139,6 @@ Reading Material
 ###Testing
 - [Mocha](http://visionmedia.github.io/mocha/)
 - [Arrow](https://github.com/yahoo/arrow)
-
-### Resources
-- [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
 
 ##[Ruby](https://www.ruby-lang.org/en/)
 A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
