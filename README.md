@@ -111,7 +111,10 @@ Reading Material
 Library that uses the latest web technologies to create custom HTML elements.
 
 Tutorials
-- Coming soon...
+- [Google's Polymer Tutorial for Beginners](http://www.polymer-project.org/docs/start/tutorial/step-1.html)
+
+Reading Materials
+- [Building modern apps with Polymer & Web Components](https://www.youtube.com/watch?v=VMVj_jR75vE)
 
 ##[Node](http://nodejs.org/)
 Node.js is a runtime environment and a library for running applications written in JavaScript outside the browser (for example, on the server). Node.js applications are designed to maximize throughput and efficiency, using non-blocking I/O and asynchronous events. Node.js applications run single-threaded, although Node.js uses multiple threads for file and network events. Node.js is commonly used for real time applications due to its asynchronous nature, allowing applications to display information faster for users without the need for refreshing.
