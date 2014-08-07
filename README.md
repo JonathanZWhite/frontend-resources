@@ -5,17 +5,33 @@ A curated list of resources and tutorials for front-end engineers
 
 ##Table of Contents
 - [CSS](/README.md#css)
+  - [Preprocessors](/README.md#preprocessors)
 - [Javascript](/README.md#javascript)
+  - [Tutorials](/README.md#tutorials)
+  - [Libraries](/README.md##libraries)
   - [Frameworks](/README.md#frameworks)
     - [Angular](/README.md#angular)
     - [React](/README.md#react)
     - [Polymer](/README.md#polymer)
 - [Node](/README.md#node)
+  - [Tutorials](/README.md#tutorials-1)
+  - [Frameworks](/README.md#frameworks-1)
+  - [Templating](/README.md#templating)
+  - [Testing](/README.md#testing)
 - [Ruby](/README.md#ruby)
+  - [Tutorials](/README.md#tutorials-2) 
+  - [Frameworks](/README.md#frameworks-2)
 - [PHP](/README.md#php)
+  - [Tutorials](/README.md#tutorials-3)
+  - [Frameworks](/README.md#frameworks-3)
 - [Databases](/README.md#databases)
 - [UI/UX Design](/README.md#uiux-design)
+  - [Inspiration](/README.md#inspiration)
+  - [Reading Material](/README.md#reading-material)
+- [Workflow](/README.md#workflow)
 - [Extra Resources](/README.md#extra-resources)
+  - [Reading Material](/README.md#reading-material-1)
+  - [Stock Images (free)](/README.md#stock-imagesfree)
 
 ##CSS 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. 
