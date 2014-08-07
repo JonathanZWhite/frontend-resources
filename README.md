@@ -207,6 +207,7 @@ Tutorials
 
 ###Resources
 - [Subtle Patterns (Free textures for your next web project)](http://subtlepatterns.com/)
+- [Google Fonts](https://www.google.com/fonts)
 - [Unsplash (Free stock images)](http://unsplash.com/)
 - [Unsplash with search and filtering](http://www.arthurweill.fr/Unsplash/en)
 - [Jaymantri (Free stock images)](http://jaymantri.com)
