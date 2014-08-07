@@ -29,10 +29,10 @@ A curated list of resources and tutorials for front-end engineers
 - [UI/UX Design](/README.md#uiux-design)
   - [Inspiration](/README.md#inspiration)
   - [Reading Material](/README.md#reading-material)
+  - [Resources](/README.md#resources)
 - [Workflow](/README.md#workflow)
 - [Extra Resources](/README.md#extra-resources)
   - [Reading Material](/README.md#reading-material-1)
-  - [Stock Images (free)](/README.md#stock-imagesfree)
 
 ##CSS 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. 
@@ -203,6 +203,12 @@ Tutorials
 - [My Dream Design Curriculum](https://medium.com/the-year-of-the-looking-glass/my-dream-design-curriculum-ace1d0475289)
 - [The Z-Axis: Designing for the Future](http://alistapart.com/article/the-z-axis-designing-for-the-future)
 
+###Resources
+- [Subtle Patterns (Free textures for your next web project)](http://subtlepatterns.com/)
+- [Unsplash (Free stock images)](http://unsplash.com/)
+- [Unsplash with search and filtering](http://www.arthurweill.fr/Unsplash/en)
+- [Jaymantri (Free stock images)](http://jaymantri.com)
+
 ##Workflow
 
 - [Yeoman Generator](http://yeoman.io/)
@@ -222,9 +228,3 @@ A package manager for the web
 ###Reading Material
 - [Hammock driven development (video)](https://www.youtube.com/watch?v=f84n5oFoZBc)
 - [How to be a great software developer](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer)
-
-###Stock Images(free)
-
-- [Unsplash](http://unsplash.com/)
-- [Unsplash with search and filtering](http://www.arthurweill.fr/Unsplash/en)
-- [Jaymantri](http://jaymantri.com)
