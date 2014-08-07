@@ -179,7 +179,6 @@ Tutorials
 
 ##Workflow
 
-###Tools
 - [Yeoman Generator](http://yeoman.io/)
 Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
 
