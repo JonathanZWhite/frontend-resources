@@ -42,9 +42,6 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 ####[YUI](https://yuilibrary.com/)
 The Yahoo! User Interface Library is an open-source JavaScript library for building richly interactive web applications using techniques such as Ajax, DHTML, and DOM scripting.
 
-####[Grunt](http://gruntjs.com/)
-Automation, performing repetitive tasks like minification, compilation, unit testing and linting.
-
 ####[D3.js](http://d3js.org/)
 D3.js (or just D3 for Data-Driven Documents) is a JavaScript library that uses digital data to drive the creation and control of dynamic and interactive graphical forms which run in web browsers.
 
@@ -180,14 +177,24 @@ Tutorials
 - [My Dream Design Curriculum](https://medium.com/the-year-of-the-looking-glass/my-dream-design-curriculum-ace1d0475289)
 - [The Z-Axis: Designing for the Future](http://alistapart.com/article/the-z-axis-designing-for-the-future)
 
+##Workflow
+
+###Tools
+- [Yeoman Generator](http://yeoman.io/)
+Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
+
+- [JS Hint](http://jshint.com/docs/)
+JSHint is a program that flags suspicious usage in programs written in JavaScript. The core project consists of a library itself as well as a CLI program distributed as a Node module.
+
+- [Grunt](http://gruntjs.com/)
+Automation, performing repetitive tasks like minification, compilation, unit testing and linting.
+
+
 ##Extra Resources
 
 ###Reading Material
 - [Hammock driven development (video)](https://www.youtube.com/watch?v=f84n5oFoZBc)
 - [How to be a great software developer](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer)
-
-###Tools
-- [Yeoman Generator (scaffolding)](http://yeoman.io/)
 
 ###Stock Images(free)
 
