@@ -210,6 +210,8 @@ JSHint is a program that flags suspicious usage in programs written in JavaScrip
 - [Grunt](http://gruntjs.com/)
 Automation, performing repetitive tasks like minification, compilation, unit testing and linting.
 
+- [Bower](http://bower.io/)
+A package manager for the web
 
 ##Extra Resources
 
