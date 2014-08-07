@@ -203,6 +203,7 @@ Tutorials
 - [Google's Material Design Guidelines](http://www.google.com/design/spec/material-design/introduction.html)
 - [My Dream Design Curriculum](https://medium.com/the-year-of-the-looking-glass/my-dream-design-curriculum-ace1d0475289)
 - [The Z-Axis: Designing for the Future](http://alistapart.com/article/the-z-axis-designing-for-the-future)
+- [UX crash course - 31 fundementals](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
 
 ###Resources
 - [Subtle Patterns (Free textures for your next web project)](http://subtlepatterns.com/)
