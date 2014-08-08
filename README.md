@@ -103,6 +103,7 @@ React is a JavaScript library for building user interfaces. It's declarative, ef
 Tutorials
 - [Overview from Facebook](http://facebook.github.io/react/docs/tutorial.html)
 - [Intro to the React Framework (great overview)](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
+- [Flux ToDo MVC](http://facebook.github.io/react/docs/flux-todo-list.html)
 
 Reading Material 
 - [Rethinking Best Practices (video)](https://www.youtube.com/watch?v=DgVS-zXgMTk)
