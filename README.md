@@ -108,12 +108,13 @@ Tutorials
 - [Overview from Facebook](http://facebook.github.io/react/docs/tutorial.html)
 - [Intro to the React Framework (great overview)](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 - [Flux ToDo MVC](http://facebook.github.io/react/docs/flux-todo-list.html)
+- [React Components](https://medium.com/react-tutorials/react-components-828c397e3dc8)
+- [React States](https://medium.com/react-tutorials/react-state-14a6d4f736f5)
+- [React Properties](https://medium.com/react-tutorials/react-properties-ef11cd55caa0)
 
 Reading Material 
 - [Rethinking Best Practices (video)](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 - [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw&list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v#t=41)
-- [React States](https://medium.com/react-tutorials/react-state-14a6d4f736f5)
-- [React Properties](https://medium.com/react-tutorials/react-properties-ef11cd55caa0)
 
 Architecture
 - [Flux architecture](http://facebook.github.io/react/docs/flux-overview.html) 
