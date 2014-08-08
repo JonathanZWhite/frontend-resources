@@ -4,6 +4,7 @@ frontend-resources
 A curated list of resources and tutorials for front-end engineers
 
 ##Table of Contents
+- [HTML](/README.md#html)
 - [CSS](/README.md#css)
   - [Preprocessors](/README.md#preprocessors)
 - [Javascript](/README.md#javascript)
@@ -33,6 +34,9 @@ A curated list of resources and tutorials for front-end engineers
 - [Workflow](/README.md#workflow)
 - [Extra Resources](/README.md#extra-resources)
   - [Reading Material](/README.md#reading-material-1)
+
+##HTML
+- [Semantic Markup](http://www.smashingmagazine.com/2011/11/18/html5-semantics/)
 
 ##CSS 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. 
