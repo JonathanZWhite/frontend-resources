@@ -115,6 +115,7 @@ Reading Material
 
 Architecture
 - [Flux architecture](http://facebook.github.io/react/docs/flux-overview.html) 
+- [React Yeoman Generator](https://github.com/facebook/react/issues/681#issuecomment-31080689)
 
 ####[Polymer](http://www.polymer-project.org/)
 Library that uses the latest web technologies to create custom HTML elements.
