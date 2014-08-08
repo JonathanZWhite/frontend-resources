@@ -108,6 +108,9 @@ Reading Material
 - [Rethinking Best Practices (video)](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 - [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw&list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v#t=41)
 
+Architecture
+- [Flux architecture](http://facebook.github.io/react/docs/flux-overview.html) 
+
 ####[Polymer](http://www.polymer-project.org/)
 Library that uses the latest web technologies to create custom HTML elements.
 
