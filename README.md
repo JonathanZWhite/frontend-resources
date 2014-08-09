@@ -130,18 +130,20 @@ Reading Materials
 - [Building modern apps with Polymer & Web Components](https://www.youtube.com/watch?v=VMVj_jR75vE)
 - [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/)
 
-##[Node](http://nodejs.org/)
+##[node](http://nodejs.org/)
 Node.js is a runtime environment and a library for running applications written in JavaScript outside the browser (for example, on the server). Node.js applications are designed to maximize throughput and efficiency, using non-blocking I/O and asynchronous events. Node.js applications run single-threaded, although Node.js uses multiple threads for file and network events. Node.js is commonly used for real time applications due to its asynchronous nature, allowing applications to display information faster for users without the need for refreshing.
 
 ###Tutorials
 - [Node for Beginners](http://code.tutsplus.com/tutorials/nodejs-for-beginners--net-26314)
-- - [Node Beginner (book)](http://www.nodebeginner.org/)
+- [Node Beginner (book)](http://www.nodebeginner.org/)
 - [Node School](http://nodeschool.io/)
 - [Overview of Node with Mongo and Express](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 - [Building a Restful API with Node and Express](http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4)
 - [Creating a Single Page Todo App with Node and Angular](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
 - [Building a complete MVC site with node/express](http://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168)
 - [Blog rolling with mongoDB, express and Node](http://howtonode.org/express-mongodb)
+- [Introduction to MEAN](http://code.tutsplus.com/tutorials/introduction-to-the-mean-stack--cms-19918)
+- [Creating an RSS feed reader with the MEAN stack](http://code.tutsplus.com/tutorials/creating-an-rss-feed-reader-with-the-mean-stack--cms-20563?utm_source=Tuts+&utm_medium=website&utm_campaign=relatedtutorials&utm_content=sidebar&WT.mc_id=Tuts+_website_relatedtutorials_sidebar)
 
 Reading Material
 - [Why use Node](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
