@@ -198,6 +198,7 @@ MySQL is the most popular database system used with PHP.
 
 ####[MongoDB](http://www.mongodb.org/)
 MongoDB (from "humongous") is an open-source document database, and the leading NoSQL database.
+- [Introduction to MongoDB](http://docs.mongodb.org/manual/)
 
 ####[CouchDB](http://couchdb.apache.org/)
 CouchDB is a database that completely embraces the web. Store your data with JSON documents. Access your documents and query your indexes with your web browser, via HTTP. Index, combine, and transform your documents with JavaScript.
