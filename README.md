@@ -8,6 +8,7 @@ A curated list of resources and tutorials for front-end engineers
 - [CSS](/README.md#css)
   - [Preprocessors](/README.md#preprocessors)
 - [Javascript](/README.md#javascript)
+  - [Reading Material](/README.md#reading-material)
   - [Tutorials](/README.md#tutorials)
   - [Libraries](/README.md##libraries)
   - [Frameworks](/README.md#frameworks)
