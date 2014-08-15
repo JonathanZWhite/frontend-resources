@@ -148,8 +148,6 @@ Node.js is a runtime environment and a library for running applications written 
 - [Creating a Single Page Todo App with Node and Angular](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
 - [Building a complete MVC site with node/express](http://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168)
 - [Blog rolling with mongoDB, express and Node](http://howtonode.org/express-mongodb)
-- [Introduction to MEAN](http://code.tutsplus.com/tutorials/introduction-to-the-mean-stack--cms-19918)
-- [Creating an RSS feed reader with the MEAN stack](http://code.tutsplus.com/tutorials/creating-an-rss-feed-reader-with-the-mean-stack--cms-20563?utm_source=Tuts+&utm_medium=website&utm_campaign=relatedtutorials&utm_content=sidebar&WT.mc_id=Tuts+_website_relatedtutorials_sidebar)
 - [Building an Angular and Express app](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-1/)
 
 Reading Material
@@ -160,6 +158,10 @@ Reading Material
 
 ###Frameworks
 - [Express](http://expressjs.com/)
+
+###MEAN Stack
+- [Introduction to MEAN](http://code.tutsplus.com/tutorials/introduction-to-the-mean-stack--cms-19918)
+- [Creating an RSS feed reader with the MEAN stack](http://code.tutsplus.com/tutorials/creating-an-rss-feed-reader-with-the-mean-stack--cms-20563?utm_source=Tuts+&utm_medium=website&utm_campaign=relatedtutorials&utm_content=sidebar&WT.mc_id=Tuts+_website_relatedtutorials_sidebar)
 
 ###Architecture
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
