@@ -2,7 +2,7 @@ frontend-resources
 ==================
 
 A curated list of resources and tutorials for front-end engineers
-
+a
 ##Table of Contents
 - [HTML](/README.md#html)
 - [CSS](/README.md#css)
@@ -92,6 +92,7 @@ Reading Material
 - [Recordings of Angular meetups (video)](https://www.youtube.com/playlist?list=PL53194065BA276ACA)
 - [Angular design patterns and best practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
 - [Angular best practices: I've been doing it all wrong](http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/)
+- [Best Practice Recommendations for Angular App Structure (Google)](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub)
 - [Angular Styleguide](https://github.com/toddmotto/angularjs-styleguide)
 
 Architecture
