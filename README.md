@@ -242,18 +242,18 @@ Tutorials
 
 ##Workflow
 
-- [Yeoman Generator](http://yeoman.io/)
+[Yeoman Generator](http://yeoman.io/)
 Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
 
-- [JS Hint](http://jshint.com/docs/)
+[JS Hint](http://jshint.com/docs/)
 JSHint is a program that flags suspicious usage in programs written in JavaScript. The core project consists of a library itself as well as a CLI program distributed as a Node module.
 
-- [Grunt](http://gruntjs.com/)
+[Grunt](http://gruntjs.com/)
 Automation, performing repetitive tasks like minification, compilation, unit testing and linting.
 
-    [Writing an awesome build script with Grunt](http://www.sitepoint.com/writing-awesome-build-script-grunt/)
+  [Writing an awesome build script with Grunt](http://www.sitepoint.com/writing-awesome-build-script-grunt/)
 
-- [Bower](http://bower.io/)
+[Bower](http://bower.io/)
 A package manager for the web
 
 ##Extra Resources
