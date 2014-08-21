@@ -39,6 +39,7 @@ a
 
 ##HTML
 - [Semantic Markup](http://www.smashingmagazine.com/2011/11/18/html5-semantics/)
+- [Standards for flexible HTML and CSS](http://codeguide.co/)
 
 ##CSS 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. 
