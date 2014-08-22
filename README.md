@@ -243,11 +243,14 @@ Tutorials
 ###Resources
 - [Subtle Patterns (Free textures for your next web project)](http://subtlepatterns.com/)
 - [Google Fonts](https://www.google.com/fonts)
+- [Font Awesome (Font Awesome gives you scalable vector icons that can instantly be customized)](http://fortawesome.github.io/Font-Awesome/icons/)
+
+####Stock Images
 - [Unsplash (Free stock images)](http://unsplash.com/)
 - [Unsplash with search and filtering](http://www.arthurweill.fr/Unsplash/en)
 - [Jaymantri (Free stock images)](http://jaymantri.com)
+- [The Stocks (Free stock images)](http://thestocks.im/)
 - [Travel Coffeebook (Free stock images)](http://travelcoffeebook.tumblr.com/)
-- [Font Awesome (Font Awesome gives you scalable vector icons that can instantly be customized)](http://fortawesome.github.io/Font-Awesome/icons/)
 
 ##Workflow
 
