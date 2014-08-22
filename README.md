@@ -34,6 +34,12 @@ a
   - [Reading Material](/README.md#reading-material)
   - [Resources](/README.md#resources)
 - [Workflow](/README.md#workflow)
+  - [Sublime](/README.md#workflow)
+  - [Yeoman Generator](/README.md#yeoman-generator)
+  - [JSHint](/README.md#js-hint)
+  - [Grunt](/README.md#grunt)
+  - [Bower](/README.md#bower)
+  - [LESS](/README.md#less)
 - [Extra Resources](/README.md#extra-resources)
   - [Reading Material](/README.md#reading-material-1)
 
