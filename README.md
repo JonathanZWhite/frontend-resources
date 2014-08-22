@@ -82,6 +82,7 @@ D3.js (or just D3 for Data-Driven Documents) is a JavaScript library that uses d
 
 Tutorials
 - [Making bar charts](http://bost.ocks.org/mike/bar/)
+- [Youtube](https://www.youtube.com/user/d3Vienno/videos)
 
 ###Frameworks
 
