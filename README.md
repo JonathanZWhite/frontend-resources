@@ -247,6 +247,7 @@ Tutorials
 
 [Sublime](http://www.sublimetext.com/)
 Sublime Text is a sophisticated text editor for code, markup and prose.
+- [AngularJS - AngularJS code completion, snippets, go to definition, quick panel search, and more.](https://sublime.wbond.net/packages/AngularJS)
 
 [Yeoman Generator](http://yeoman.io/)
 Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
