@@ -285,6 +285,9 @@ A package manager for the web
 ####[LESS](http://lesscss.org/)
 Less extends CSS with dynamic behavior such as variables, mixins, operations and functions.
 
+####[SASS](http://sass-lang.com/)
+Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
+
 ##Extra Resources
 
 ###Reading Material
