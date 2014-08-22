@@ -245,6 +245,9 @@ Tutorials
 
 ##Workflow
 
+[Sublime](http://www.sublimetext.com/)
+Sublime Text is a sophisticated text editor for code, markup and prose.
+
 [Yeoman Generator](http://yeoman.io/)
 Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
 
