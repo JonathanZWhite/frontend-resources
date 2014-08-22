@@ -248,6 +248,18 @@ Tutorials
 ####[Sublime](http://www.sublimetext.com/)
 Sublime Text is a sophisticated text editor for code, markup and prose.
 - [AngularJS - AngularJS code completion, snippets, go to definition, quick panel search, and more.](https://sublime.wbond.net/packages/AngularJS)
+- [Docblockr - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++](https://sublime.wbond.net/packages/DocBlockr)
+- [HTMLBeautify - A plugin for Sublime Text that formats (indents) HTML source code. It makes code easier for humans to read.](https://sublime.wbond.net/packages/HTMLBeautify)
+- [JavascriptBeautify - js-beautify for sublime](https://sublime.wbond.net/packages/Javascript%20Beautify)
+- [JSX - Language Definitions for JSX files.](https://sublime.wbond.net/packages/JSX)
+- [LESS - LESS syntax highlighting for Sublime Text.](https://sublime.wbond.net/packages/LESS)
+- [NodeJS - nodejs snippets and bindings for Sublime Text 2](https://sublime.wbond.net/packages/Nodejs)
+- [Package Control - A full-featured package manager](https://sublime.wbond.net/packages/Package%20Control)
+- [Predawn - Predawn is a dark interface and syntax theme for Sublime Text.](https://sublime.wbond.net/packages/Predawn)
+- [Sublime Linter - Interactive code linting framework for Sublime Text 3](https://sublime.wbond.net/packages/SublimeLinter)
+  - [SublimeLinter-javac - SublimeLinter 3 plugin for Java, using javac -Xlint.](https://sublime.wbond.net/packages/SublimeLinter-javac)
+  - [SublimeLinter-jshint - SublimeLinter plugin for JavaScript, using jshint.](https://sublime.wbond.net/packages/SublimeLinter-jshint)
+  - [SublimeLinter-jsxhint - SublimeLinter 3 plugin for JSX (React.js), using jsxhint.](https://sublime.wbond.net/packages/SublimeLinter-jsxhint)
 
 ####[Yeoman Generator](http://yeoman.io/)
 Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
