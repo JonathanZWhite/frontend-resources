@@ -33,7 +33,6 @@ a
   - [Inspiration](/README.md#inspiration)
   - [Reading Material](/README.md#reading-material)
   - [Resources](/README.md#resources)
-    - [Free Stock Images](/README.md#stock-images)
 - [Workflow](/README.md#workflow)
   - [Sublime](/README.md#workflow)
   - [Yeoman Generator](/README.md#yeoman-generator)
