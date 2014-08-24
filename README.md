@@ -68,6 +68,7 @@ JavaScript (JS) is a dynamic computer programming language.[5] It is most common
 - [Professional Javascript for Web Developers (includes design patterns and best practices)](http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691)
 - [How does Javascript prototyping work](http://stackoverflow.com/questions/572897/how-does-javascript-prototype-work)
 - [Prototype vs Revealing Module Pattern](http://www.stevefenton.co.uk/Content/Blog/Date/201312/Blog/JavaScript-Prototype-Vs-Revealing-Module-Pattern/)
+- [Javascript scoping and hoisting](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 - [Structuring a complex JSON schema](http://spacetelescope.github.io/understanding-json-schema/structuring.html)
 
 ###Libraries
