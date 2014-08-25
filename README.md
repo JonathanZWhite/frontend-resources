@@ -169,6 +169,7 @@ Node.js is a runtime environment and a library for running applications written 
 Reading Material
 - [Why use Node](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
 - [Node explained (video)](https://www.youtube.com/watch?v=L0pjVcIsU6A)
+- [Node Control Flow](http://book.mixu.net/node/ch7.html)
 - [Full stack javascript with MEAN and Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
 - [MEAN.js](https://github.com/meanjs/mean)
 
