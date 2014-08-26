@@ -11,7 +11,7 @@ a
   - [Reading Material](/README.md#reading-material)
   - [Tutorials](/README.md#tutorials)
   - [Libraries](/README.md##libraries)
-  - [Frameworks](/README.md#frameworks)
+  - [Frameworks](/README.md#frameworks) g
     - [Angular](/README.md#angular)
     - [React](/README.md#react)
     - [Polymer](/README.md#polymer)
@@ -151,7 +151,7 @@ Reading Materials
 - [Building modern apps with Polymer & Web Components](https://www.youtube.com/watch?v=VMVj_jR75vE)
 - [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/)
 
-##[node](http://nodejs.org/)
+##[Node](http://nodejs.org/)
 Node.js is a runtime environment and a library for running applications written in JavaScript outside the browser (for example, on the server). Node.js applications are designed to maximize throughput and efficiency, using non-blocking I/O and asynchronous events. Node.js applications run single-threaded, although Node.js uses multiple threads for file and network events. Node.js is commonly used for real time applications due to its asynchronous nature, allowing applications to display information faster for users without the need for refreshing.
 
 ###Tutorials
