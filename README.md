@@ -11,7 +11,7 @@ a
   - [Reading Material](/README.md#reading-material)
   - [Tutorials](/README.md#tutorials)
   - [Libraries](/README.md##libraries)
-  - [Frameworks](/README.md#frameworks) g
+  - [Frameworks](/README.md#frameworks)
     - [Angular](/README.md#angular)
     - [React](/README.md#react)
     - [Polymer](/README.md#polymer)
