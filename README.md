@@ -93,6 +93,7 @@ AngularJS is an open-source web application framework, maintained by Google and 
 
 Tutorials
 - [Angular-cat (great overview)](https://docs.angularjs.org/tutorial/step_00)
+- [AngularJS Routing Using UI-Router](http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
 - [Remastering Angular animations](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 - [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)
 - [Using Animate.css with Angular](http://www.jvandemo.com/how-to-create-cool-animations-with-angularjs-1-2-and-animate-css/)
