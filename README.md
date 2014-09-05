@@ -98,6 +98,7 @@ Tutorials
 - [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)`
 - [A Practical Guide to Angular Directives](http://www.sitepoint.com/practical-guide-angularjs-directives/)
 - [Sharing Data Between Controllers](http://www.thinkster.io/angularjs/9jfpSmbx1j/angularjs-sharing-data-between-controllers)
+- [150 Angular JS Lesson (videos)](https://egghead.io/technologies/angularjs)
 - [Using Animate.css with Angular](http://www.jvandemo.com/how-to-create-cool-animations-with-angularjs-1-2-and-animate-css/)
 
 Reading Material
