@@ -301,6 +301,9 @@ Automation, performing repetitive tasks like minification, compilation, unit tes
 ####[Bower](http://bower.io/)
 A package manager for the web
 
+####[Passport](http://passportjs.org/)
+Simple, unobtrusive authentication for Node.js
+
 ####[LESS](http://lesscss.org/)
 Less extends CSS with dynamic behavior such as variables, mixins, operations and functions.
 - [Medium’s CSS is actually pretty fucking good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
