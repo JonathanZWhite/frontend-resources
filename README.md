@@ -179,6 +179,7 @@ Reading Material
 - [Node Control Flow](http://book.mixu.net/node/ch7.html)
 - [Node.js async in practice: When to use what?](http://www.sebastianseilund.com/nodejs-async-in-practice)
 - [Felix's Node.js Style Guide](http://nodeguide.com/style.html)
+- [Node RESTful API Authentication](http://stackoverflow.com/questions/14572600/passport-js-restful-auth)
 - [Projects, Applications, and Companies Using Node (great reference material)](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)
 - [Full stack javascript with MEAN and Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
 - [MEAN.js](https://github.com/meanjs/mean)
