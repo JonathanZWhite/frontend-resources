@@ -95,7 +95,7 @@ Tutorials
 - [Angular-cat (great overview)](https://docs.angularjs.org/tutorial/step_00)
 - [AngularJS Routing Using UI-Router](http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
 - [Remastering Angular animations](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
-- [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)`
+- [Submitting AJAX Forms the Angular Way](http://scotch.io/tutorials/javascript/submitting-ajax-forms-the-angularjs-way)
 - [A Practical Guide to Angular Directives](http://www.sitepoint.com/practical-guide-angularjs-directives/)
 - [Sharing Data Between Controllers](http://www.thinkster.io/angularjs/9jfpSmbx1j/angularjs-sharing-data-between-controllers)
 - [150 Angular JS Lesson (videos)](https://egghead.io/technologies/angularjs)
@@ -104,6 +104,7 @@ Tutorials
 Reading Material
 - [From jQuery to Angular mindset](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
 - [Why Angular over jQuery](http://stackoverflow.com/questions/18414012/why-use-angularjs-instead-of-jquery)
+- [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)
 - [Recordings of Angular meetups (video)](https://www.youtube.com/playlist?list=PL53194065BA276ACA)
 - [Angular design patterns and best practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
 - [Directives - difference between controller and link](http://jasonmore.net/angular-js-directives-difference-controller-link/)
