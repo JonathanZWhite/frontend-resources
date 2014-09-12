@@ -238,6 +238,7 @@ MySQL is the most popular database system used with PHP.
 ####[MongoDB](http://www.mongodb.org/)
 MongoDB (from "humongous") is an open-source document database, and the leading NoSQL database.
 - [Introduction to MongoDB](http://docs.mongodb.org/manual/)
+- [Data Modeling](http://docs.mongodb.org/manual/data-modeling/)
 - [Designing MongoDB Schemas with Embedded, Non-Embedded and Bucket Structures](https://www.openshift.com/blogs/designing-mongodb-schemas-with-embedded-non-embedded-and-bucket-structures)
 
 ####[CouchDB](http://couchdb.apache.org/)
