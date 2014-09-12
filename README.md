@@ -305,6 +305,9 @@ Automation, performing repetitive tasks like minification, compilation, unit tes
 - [Making your AngularJS application grunt](http://g00glen00b.be/angular-grunt/)
 - [Get more with LESS using Grunt](http://g00glen00b.be/less-grunt/)
 
+####[Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
+Postman helps you be more efficient while working with APIs
+
 ####[Bower](http://bower.io/)
 A package manager for the web
 
