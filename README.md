@@ -240,7 +240,7 @@ MongoDB (from "humongous") is an open-source document database, and the leading 
 - [Introduction to MongoDB](http://docs.mongodb.org/manual/)
 - [Data Modeling](http://docs.mongodb.org/manual/data-modeling/)
 - [Designing MongoDB Schemas with Embedded, Non-Embedded and Bucket Structures](https://www.openshift.com/blogs/designing-mongodb-schemas-with-embedded-non-embedded-and-bucket-structures)
-- [MongoDB: Schema design (video - poor audio quality)](https://www.youtube.com/watch?v=go_WDg4KlC4)
+- [MongoDB Schema Design Basics (video)](https://www.youtube.com/watch?v=Mz320k-WREA)
 
 ####[CouchDB](http://couchdb.apache.org/)
 CouchDB is a database that completely embraces the web. Store your data with JSON documents. Access your documents and query your indexes with your web browser, via HTTP. Index, combine, and transform your documents with JavaScript.
