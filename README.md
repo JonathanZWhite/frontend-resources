@@ -106,6 +106,7 @@ Reading Material
 - [Why Angular over jQuery](http://stackoverflow.com/questions/18414012/why-use-angularjs-instead-of-jquery)
 - [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)
 - [Recordings of Angular meetups (video)](https://www.youtube.com/playlist?list=PL53194065BA276ACA)
+- [Angular.service vs angular.factory](http://stackoverflow.com/questions/14324451/angular-service-vs-angular-factory)
 - [Angular design patterns and best practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
 - [Directives - difference between controller and link](http://jasonmore.net/angular-js-directives-difference-controller-link/)
 - [Difference between the 'controller', 'link' and 'compile' functions when defining an angular.js directive](http://stackoverflow.com/questions/12546945/difference-between-the-controller-link-and-compile-functions-when-definin)
