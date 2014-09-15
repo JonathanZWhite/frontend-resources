@@ -100,6 +100,7 @@ Tutorials
 - [Sharing Data Between Controllers](http://www.thinkster.io/angularjs/9jfpSmbx1j/angularjs-sharing-data-between-controllers)
 - [150 Angular JS Lesson (videos)](https://egghead.io/technologies/angularjs)
 - [Using Animate.css with Angular](http://www.jvandemo.com/how-to-create-cool-animations-with-angularjs-1-2-and-animate-css/)
+- [Authentication in Single Page Applications](https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs)
 
 Reading Material
 - [From jQuery to Angular mindset](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
