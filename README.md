@@ -244,6 +244,7 @@ MongoDB (from "humongous") is an open-source document database, and the leading 
 - [Data Modeling](http://docs.mongodb.org/manual/data-modeling/)
 - [Designing MongoDB Schemas with Embedded, Non-Embedded and Bucket Structures](https://www.openshift.com/blogs/designing-mongodb-schemas-with-embedded-non-embedded-and-bucket-structures)
 - [MongoDB Schema Design Basics (video)](https://www.youtube.com/watch?v=Mz320k-WREA)
+- [MongoDB relationships: embed or reference](http://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference)
 - [Example and use of Mongoose virtual attributes](http://mongoosejs.com/docs/2.7.x/docs/virtuals.html)
 
 ####[CouchDB](http://couchdb.apache.org/)
