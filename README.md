@@ -112,6 +112,7 @@ Reading Material
 - [Directives - difference between controller and link](http://jasonmore.net/angular-js-directives-difference-controller-link/)
 - [Difference between the 'controller', 'link' and 'compile' functions when defining an angular.js directive](http://stackoverflow.com/questions/12546945/difference-between-the-controller-link-and-compile-functions-when-definin)
 - [Angular best practices: I've been doing it all wrong](http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/)
+- [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
 - [Angular Directive Best Practices](http://www.jeremyzerr.com/angularjs-directive-best-practices)
 - [Best Practice Recommendations for Angular App Structure (Google)](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub)
 - [Angular Styleguide](https://github.com/toddmotto/angularjs-styleguide)
