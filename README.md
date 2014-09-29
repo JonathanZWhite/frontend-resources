@@ -262,6 +262,10 @@ Tutorials
 
 - [http://drp.io/aee/bKd/-/+](http://drp.io/aee/bKd/-/+)
 
+Data visualization
+- [Nicholas Felton](http://feltron.com/)
+- [2013: The Year in Interactive Storytelling (New York Times)](http://www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/)
+
 ###Reading Material
 - [Designing Design (book)](http://www.amazon.com/Designing-Design-Kenya-Hara/dp/3037784504/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=#customerReviews)
 - [Thoughts on Design (book)](http://www.amazon.com/exec/obidos/ASIN/081187544X/ref=nosim/0sil8)
