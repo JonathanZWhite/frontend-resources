@@ -116,6 +116,8 @@ Reading Material
 - [Angular Directive Best Practices](http://www.jeremyzerr.com/angularjs-directive-best-practices)
 - [Best Practice Recommendations for Angular App Structure (Google)](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub)
 - [Angular Styleguide](https://github.com/toddmotto/angularjs-styleguide)
+- [The state of angularjs controllers](http://jonathancreamer.com/the-state-of-angularjs-controllers/)
+- [Rethinking AngularJS Controllers](http://toddmotto.com/rethinking-angular-js-controllers/)
 
 Architecture
 - [Boilerplate (modified grunt tasks and server)](https://github.com/JonathanZWhite/ngbp-modified/)
