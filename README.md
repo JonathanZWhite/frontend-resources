@@ -118,6 +118,7 @@ Reading Material
 - [Angular Styleguide](https://github.com/toddmotto/angularjs-styleguide)
 - [The state of angularjs controllers](http://jonathancreamer.com/the-state-of-angularjs-controllers/)
 - [Rethinking AngularJS Controllers](http://toddmotto.com/rethinking-angular-js-controllers/)
+- [Promises And Design Patterns In AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
 
 Architecture
 - [Boilerplate (modified grunt tasks and server)](https://github.com/JonathanZWhite/ngbp-modified/)
