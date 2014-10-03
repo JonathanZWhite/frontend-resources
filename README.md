@@ -120,6 +120,8 @@ Reading Material
 - [Rethinking AngularJS Controllers](http://toddmotto.com/rethinking-angular-js-controllers/)
 - [Promises And Design Patterns In AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
 - [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
+- [AngularJS Tutorial: A Comprehensive 10,000 Word Guide
+Read more at http://www.airpair.com/angularjs#TTw630F0uDQtKkiu.99](http://www.airpair.com/angularjs)
 
 Architecture
 - [Boilerplate (modified grunt tasks and server)](https://github.com/JonathanZWhite/ngbp-modified/)
