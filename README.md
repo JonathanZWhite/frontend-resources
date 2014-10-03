@@ -91,39 +91,56 @@ Tutorials
 ####[Angular](https://angularjs.org/)
 AngularJS is an open-source web application framework, maintained by Google and community, that assists with creating single-page applications, one-page web applications that only require HTML, CSS, and JavaScript on the client side. Its goal is to augment web applications with model–view–controller (MVC) capability, in an effort to make both development and testing easier.
 
-Tutorials
+**Tutorials**
+
+Motivation
+- [Why Angular over jQuery](http://stackoverflow.com/questions/18414012/why-use-angularjs-instead-of-jquery)
+- [From jQuery to Angular mindset](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
+
+Getting Started
 - [Angular-cat (great overview)](https://docs.angularjs.org/tutorial/step_00)
+- [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
+
+Scopes
+- [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
+
+Controllers
+- [Sharing Data Between Controllers](http://www.thinkster.io/angularjs/9jfpSmbx1j/angularjs-sharing-data-between-controllers)
+- [The state of angularjs controllers](http://jonathancreamer.com/the-state-of-angularjs-controllers/)
+- [Rethinking AngularJS Controllers](http://toddmotto.com/rethinking-angular-js-controllers/)
+
+Directives
+- [Directives - difference between controller and link](http://jasonmore.net/angular-js-directives-difference-controller-link/)
+- [Difference between the 'controller', 'link' and 'compile' functions when defining an angular.js directive](http://stackoverflow.com/questions/12546945/difference-between-the-controller-link-and-compile-functions-when-definin)
+- [Angular Directive Best Practices](http://www.jeremyzerr.com/angularjs-directive-best-practices)
+
+
+Services/Factories
+- [Angular.service vs angular.factory](http://stackoverflow.com/questions/14324451/angular-service-vs-angular-factory)
+
+Authentication
+- [Authentication in Single Page Applications](https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs)
+- [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
+
+Intermediate
 - [AngularJS Routing Using UI-Router](http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
 - [Remastering Angular animations](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 - [Submitting AJAX Forms the Angular Way](http://scotch.io/tutorials/javascript/submitting-ajax-forms-the-angularjs-way)
 - [A Practical Guide to Angular Directives](http://www.sitepoint.com/practical-guide-angularjs-directives/)
-- [Sharing Data Between Controllers](http://www.thinkster.io/angularjs/9jfpSmbx1j/angularjs-sharing-data-between-controllers)
 - [150 Angular JS Lesson (videos)](https://egghead.io/technologies/angularjs)
 - [Using Animate.css with Angular](http://www.jvandemo.com/how-to-create-cool-animations-with-angularjs-1-2-and-animate-css/)
-- [Authentication in Single Page Applications](https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs)
+
 
 Reading Material
-- [From jQuery to Angular mindset](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
-- [Why Angular over jQuery](http://stackoverflow.com/questions/18414012/why-use-angularjs-instead-of-jquery)
 - [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)
 - [Recordings of Angular meetups (video)](https://www.youtube.com/playlist?list=PL53194065BA276ACA)
-- [Angular.service vs angular.factory](http://stackoverflow.com/questions/14324451/angular-service-vs-angular-factory)
 - [Angular design patterns and best practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
-- [Directives - difference between controller and link](http://jasonmore.net/angular-js-directives-difference-controller-link/)
-- [Difference between the 'controller', 'link' and 'compile' functions when defining an angular.js directive](http://stackoverflow.com/questions/12546945/difference-between-the-controller-link-and-compile-functions-when-definin)
 - [Angular best practices: I've been doing it all wrong](http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/)
-- [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
-- [Angular Directive Best Practices](http://www.jeremyzerr.com/angularjs-directive-best-practices)
-- [Best Practice Recommendations for Angular App Structure (Google)](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub)
 - [Angular Styleguide](https://github.com/toddmotto/angularjs-styleguide)
-- [The state of angularjs controllers](http://jonathancreamer.com/the-state-of-angularjs-controllers/)
-- [Rethinking AngularJS Controllers](http://toddmotto.com/rethinking-angular-js-controllers/)
 - [Promises And Design Patterns In AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
-- [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
-- [AngularJS Tutorial: A Comprehensive 10,000 Word Guide
-Read more at http://www.airpair.com/angularjs#TTw630F0uDQtKkiu.99](http://www.airpair.com/angularjs)
 
-Architecture
+Structure
+- [Best Practice Recommendations for Angular App Structure (Google)](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub)
 - [Boilerplate (modified grunt tasks and server)](https://github.com/JonathanZWhite/ngbp-modified/)
 - [Boilerplate (original and unmodified)](https://github.com/ngbp/ngbp)
 - [Angular-app (good as reference material)](https://github.com/angular-app/angular-app)
