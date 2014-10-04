@@ -100,6 +100,8 @@ Motivation
 Getting Started
 - [Angular-cat (great overview)](https://docs.angularjs.org/tutorial/step_00)
 - [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
+- [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide)
+- [Angular Styleguide](https://github.com/toddmotto/angularjs-styleguide)
 
 Scopes
 - [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
@@ -136,7 +138,6 @@ Reading Material
 - [Recordings of Angular meetups (video)](https://www.youtube.com/playlist?list=PL53194065BA276ACA)
 - [Angular design patterns and best practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
 - [Angular best practices: I've been doing it all wrong](http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/)
-- [Angular Styleguide](https://github.com/toddmotto/angularjs-styleguide)
 - [Promises And Design Patterns In AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
 
 Structure
