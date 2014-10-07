@@ -329,6 +329,9 @@ Sublime Text is a sophisticated text editor for code, markup and prose.
   - [SublimeLinter-jshint - SublimeLinter plugin for JavaScript, using jshint.](https://sublime.wbond.net/packages/SublimeLinter-jshint)
   - [SublimeLinter-jsxhint - SublimeLinter 3 plugin for JSX (React.js), using jsxhint.](https://sublime.wbond.net/packages/SublimeLinter-jsxhint)
 
+####Deployment
+- [Setting Up A Staging Environment](http://code.tutsplus.com/articles/setting-up-a-staging-environment--net-29738)
+
 ####[Yeoman Generator](http://yeoman.io/)
 Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
 
