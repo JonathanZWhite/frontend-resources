@@ -332,6 +332,7 @@ Sublime Text is a sophisticated text editor for code, markup and prose.
 ####Deployment
 - [5 Common Server Setups For Your Web Application](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
 - [Setting Up A Staging Environment](http://code.tutsplus.com/articles/setting-up-a-staging-environment--net-29738)
+- [How To Set Up and Test DNS Subdomains with DigitalOcean's DNS Panel](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel)
 
 ####[Yeoman Generator](http://yeoman.io/)
 Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
