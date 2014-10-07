@@ -344,6 +344,7 @@ JSHint is a program that flags suspicious usage in programs written in JavaScrip
 Automation, performing repetitive tasks like minification, compilation, unit testing and linting.
 - [Writing an awesome build script with Grunt](http://www.sitepoint.com/writing-awesome-build-script-grunt/)
 - [Making your AngularJS application grunt](http://g00glen00b.be/angular-grunt/)
+- [How to use environment variables in your Angular application](http://mindthecode.com/how-to-use-environment-variables-in-your-angular-application/)
 - [Get more with LESS using Grunt](http://g00glen00b.be/less-grunt/)
 
 ####[Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
