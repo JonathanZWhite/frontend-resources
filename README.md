@@ -333,6 +333,7 @@ Sublime Text is a sophisticated text editor for code, markup and prose.
 - [5 Common Server Setups For Your Web Application](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
 - [Setting Up A Staging Environment](http://code.tutsplus.com/articles/setting-up-a-staging-environment--net-29738)
 - [How To Set Up and Test DNS Subdomains with DigitalOcean's DNS Panel](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel)
+- [How To Set Up HTTP Authentication With Nginx On Ubuntu 12.10](https://www.digitalocean.com/community/tutorials/how-to-host-multiple-node-js-applications-on-a-single-vps-with-nginx-forever-and-crontab)
 
 ####[Yeoman Generator](http://yeoman.io/)
 Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
