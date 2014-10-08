@@ -123,6 +123,8 @@ Services/Factories
 Authentication
 - [Authentication in Single Page Applications](https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs)
 - [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
+- [Simple, secure authentication for AngularJS](https://github.com/lynndylanhurley/ng-token-auth)
+- [Satellizer is a simple to use, end-to-end, token-based authentication module for AngularJS](https://github.com/sahat/satellizer)
 
 Intermediate
 - [AngularJS Routing Using UI-Router](http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
