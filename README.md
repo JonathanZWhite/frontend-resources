@@ -148,13 +148,13 @@ Structure
 - [Boilerplate (original and unmodified)](https://github.com/ngbp/ngbp)
 - [Angular-app (good as reference material)](https://github.com/angular-app/angular-app)
 
-Dependencies
+Misc
+- [Setting up an Angular and Node environment for development and production](http://start.jcolemorrison.com/how-i-setup-angular-node-projects/)
 
-- [Moment (angular version): Parse, validate, manipulate, and display dates in javascript](https://github.com/urish/angular-moment)
-- [AngularUI Router (built into boilerplate): The de-facto solution to flexible routing with nested views](https://github.com/angular-ui/ui-router)
 
 Testing
 - [Protractor (E2E testing)](https://github.com/angular/protractor)
+- [Karma](http://karma-runner.github.io/0.12/index.html)
 
 ####[React](http://facebook.github.io/react/)
 React is a JavaScript library for building user interfaces. It's declarative, efficient, and extremely flexible. What's more, it works with the libraries and frameworks that you already know.
