@@ -2,7 +2,7 @@ frontend-resources
 ==================
 
 A curated list of resources and tutorials for front-end engineers
-a
+
 ##Table of Contents
 - [HTML](/README.md#html)
 - [CSS](/README.md#css)
