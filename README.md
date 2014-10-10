@@ -102,6 +102,7 @@ Getting Started
 - [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
 - [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide)
 - [Angular Styleguide](https://github.com/toddmotto/angularjs-styleguide)
+- [Learn Angular by Building a Gmail Clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/)
 
 Scopes
 - [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
