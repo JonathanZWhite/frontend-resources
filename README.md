@@ -317,6 +317,7 @@ Data visualization
 
 ####[Sublime](http://www.sublimetext.com/)
 Sublime Text is a sophisticated text editor for code, markup and prose.
+- [Best of Sublime Text 3: Features, Plugins, and Settings](http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
 - [AngularJS - AngularJS code completion, snippets, go to definition, quick panel search, and more.](https://sublime.wbond.net/packages/AngularJS)
 - [Docblockr - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++](https://sublime.wbond.net/packages/DocBlockr)
 - [HTMLBeautify - A plugin for Sublime Text that formats (indents) HTML source code. It makes code easier for humans to read.](https://sublime.wbond.net/packages/HTMLBeautify)
