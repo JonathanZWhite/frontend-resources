@@ -119,6 +119,7 @@ Directives
 
 Services/Factories
 - [Angular.service vs angular.factory](http://stackoverflow.com/questions/14324451/angular-service-vs-angular-factory)
+- [Tidy up your Angular with factories](http://www.sitepoint.com/tidy-angular-controllers-factories-services/)
 
 Authentication
 - [Authentication in Single Page Applications](https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs)
