@@ -117,7 +117,6 @@ Directives
 - [Difference between the 'controller', 'link' and 'compile' functions when defining an angular.js directive](http://stackoverflow.com/questions/12546945/difference-between-the-controller-link-and-compile-functions-when-definin)
 - [Angular Directive Best Practices](http://www.jeremyzerr.com/angularjs-directive-best-practices)
 
-
 Services/Factories
 - [Angular.service vs angular.factory](http://stackoverflow.com/questions/14324451/angular-service-vs-angular-factory)
 
@@ -135,7 +134,6 @@ Intermediate
 - [150 Angular JS Lesson (videos)](https://egghead.io/technologies/angularjs)
 - [Using Animate.css with Angular](http://www.jvandemo.com/how-to-create-cool-animations-with-angularjs-1-2-and-animate-css/)
 
-
 Reading Material
 - [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)
 - [Recordings of Angular meetups (video)](https://www.youtube.com/playlist?list=PL53194065BA276ACA)
@@ -151,6 +149,7 @@ Structure
 
 Misc
 - [Setting up an Angular and Node environment for development and production](http://start.jcolemorrison.com/how-i-setup-angular-node-projects/)
+- [How to use environment variables in your Angular application](http://mindthecode.com/how-to-use-environment-variables-in-your-angular-application/)
 
 
 Testing
