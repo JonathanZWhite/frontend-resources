@@ -307,6 +307,7 @@ Data visualization
 - [Subtle Patterns (Free textures for your next web project)](http://subtlepatterns.com/)
 - [Google Fonts](https://www.google.com/fonts)
 - [Font Awesome (Font Awesome gives you scalable vector icons that can instantly be customized)](http://fortawesome.github.io/Font-Awesome/icons/)
+- [Font Awesome for Illustrator](http://www.mediafire.com/download/ms8s6ozkaotkvd7/font-awesome.ai)
 
 ####Stock Images
 - [Unsplash (Free stock images)](http://unsplash.com/)
