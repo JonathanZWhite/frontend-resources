@@ -203,6 +203,7 @@ Node.js is a runtime environment and a library for running applications written 
 - [Easy Node Authentication Setup](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local)
 - [Blog rolling with mongoDB, express and Node](http://howtonode.org/express-mongodb)
 - [Building an Angular and Express app](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-1/)
+- [Running Express.js in Production Mode](http://www.hacksparrow.com/running-express-js-in-production-mode.html)
 
 Reading Material
 - [Why use Node](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
