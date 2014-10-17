@@ -329,7 +329,7 @@ Sublime Text is a sophisticated text editor for code, markup and prose.
 - [Package Control - A full-featured package manager](https://sublime.wbond.net/packages/Package%20Control)
 - [Predawn - Predawn is a dark interface and syntax theme for Sublime Text.](https://sublime.wbond.net/packages/Predawn)
 - [Sublime Linter - Interactive code linting framework for Sublime Text 3](https://sublime.wbond.net/packages/SublimeLinter)
-- [sublime command line tools](http://stackoverflow.com/questions/10196449/installing-sublime-texts-command-line-tool-subl-in-terminal-permission-denie)
+- [sublime command line tools - commands to increase work effeciency ](http://stackoverflow.com/questions/10196449/installing-sublime-texts-command-line-tool-subl-in-terminal-permission-denie)
   - [SublimeLinter-javac - SublimeLinter 3 plugin for Java, using javac -Xlint.](https://sublime.wbond.net/packages/SublimeLinter-javac)
   - [SublimeLinter-jshint - SublimeLinter plugin for JavaScript, using jshint.](https://sublime.wbond.net/packages/SublimeLinter-jshint)
   - [SublimeLinter-jsxhint - SublimeLinter 3 plugin for JSX (React.js), using jsxhint.](https://sublime.wbond.net/packages/SublimeLinter-jsxhint)
