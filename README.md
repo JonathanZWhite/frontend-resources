@@ -303,6 +303,7 @@ Data visualization
 - [My Dream Design Curriculum](https://medium.com/the-year-of-the-looking-glass/my-dream-design-curriculum-ace1d0475289)
 - [The Z-Axis: Designing for the Future](http://alistapart.com/article/the-z-axis-designing-for-the-future)
 - [UX crash course - 31 fundementals](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
+- [ElemantaryOS Human Interface Guidelines](http://elementaryos.org/docs/human-interface-guidelines/human-interface-guidelines)
 - [Maintain Consistency With a Website Style Guide](http://webdesign.tutsplus.com/articles/maintain-consistency-with-a-website-style-guide--webdesign-10795)
 
 ###Resources
