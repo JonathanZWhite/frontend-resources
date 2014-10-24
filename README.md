@@ -210,6 +210,7 @@ Reading Material
 - [Why use Node](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
 - [Node explained (video)](https://www.youtube.com/watch?v=L0pjVcIsU6A)
 - [Node Control Flow](http://book.mixu.net/node/ch7.html)
+- [Node Best Practices](http://blog.risingstack.com/node-js-best-practices/)
 - [Node.js async in practice: When to use what?](http://www.sebastianseilund.com/nodejs-async-in-practice)
 - [Using $scope.$watch and $scope.$apply](http://stackoverflow.com/questions/15112584/using-scope-watch-and-scope-apply)
 - [Felix's Node.js Style Guide](http://nodeguide.com/style.html)
