@@ -372,6 +372,7 @@ Simple, unobtrusive authentication for Node.js
 
 ####[LESS](http://lesscss.org/)
 Less extends CSS with dynamic behavior such as variables, mixins, operations and functions.
+- [LESS in Practice (shameless plug)](https://github.com/JonathanZWhite/less-in-practice)
 - [Medium’s CSS is actually pretty fucking good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 
 ####[SASS](http://sass-lang.com/)
