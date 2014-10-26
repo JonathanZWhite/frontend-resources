@@ -5,7 +5,7 @@ A curated list of resources and tutorials for front-end engineers
 
 ##Table of Contents
 - [HTML](/README.md#html)
-- [CSS](/README.md#css)
+- [CSS](/README.md#css)an
   - [Preprocessors](/README.md#preprocessors)
 - [Javascript](/README.md#javascript)
   - [Reading Material](/README.md#reading-material)
@@ -141,6 +141,7 @@ Reading Material
 - [Angular design patterns and best practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
 - [Angular best practices: I've been doing it all wrong](http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/)
 - [Promises And Design Patterns In AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
+- [Hacker News discussion on Angular 2](https://news.ycombinator.com/item?id=8507632)
 
 Structure
 - [Best Practice Recommendations for Angular App Structure (Google)](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub)
