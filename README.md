@@ -311,6 +311,7 @@ Data visualization
 - [Maintain Consistency With a Website Style Guide](http://webdesign.tutsplus.com/articles/maintain-consistency-with-a-website-style-guide--webdesign-10795)
 
 ###Resources
+- [Coolors - Color generator](http://coolors.co/)
 - [Subtle Patterns (Free textures for your next web project)](http://subtlepatterns.com/)
 - [Google Fonts](https://www.google.com/fonts)
 - [Font Awesome (Font Awesome gives you scalable vector icons that can instantly be customized)](http://fortawesome.github.io/Font-Awesome/icons/)
