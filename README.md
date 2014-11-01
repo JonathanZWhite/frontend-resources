@@ -211,6 +211,7 @@ Reading Material
 - [Why use Node](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
 - [Node explained (video)](https://www.youtube.com/watch?v=L0pjVcIsU6A)
 - [Node Control Flow](http://book.mixu.net/node/ch7.html)
+- [Why use closures](http://howtonode.org/why-use-closure)
 - [Node Best Practices](http://blog.risingstack.com/node-js-best-practices/)
 - [Error Handling in Node](http://www.joyent.com/developers/node/design/errors)
 - [Awesome Node resources](https://github.com/sindresorhus/awesome-nodejs)
