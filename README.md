@@ -218,6 +218,7 @@ Reading Material
 - [Node.js async in practice: When to use what?](http://www.sebastianseilund.com/nodejs-async-in-practice)
 - [Using $scope.$watch and $scope.$apply](http://stackoverflow.com/questions/15112584/using-scope-watch-and-scope-apply)
 - [Felix's Node.js Style Guide](http://nodeguide.com/style.html)
+- [Real Time Web Analytics with Node.js and Socket.IO](http://coenraets.org/blog/2012/10/real-time-web-analytics-with-node-js-and-socket-io/)
 - [Node RESTful API Authentication](http://stackoverflow.com/questions/14572600/passport-js-restful-auth)
 - [Projects, Applications, and Companies Using Node (great reference material)](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)
 - [Full stack javascript with MEAN and Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
