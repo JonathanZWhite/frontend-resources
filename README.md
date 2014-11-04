@@ -304,6 +304,7 @@ Data visualization
 
 ###Reading Material
 - [Designing Design (book)](http://www.amazon.com/Designing-Design-Kenya-Hara/dp/3037784504/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=#customerReviews)
+- [Recommended design books](http://pxdotpt.com/blog/2014/1/11/design-books-ive-read-and-recommend)
 - [Thoughts on Design (book)](http://www.amazon.com/exec/obidos/ASIN/081187544X/ref=nosim/0sil8)
 - [Apple's Human Interface Guidelines](https://developer.apple.com/library/iOS/documentation/userexperience/conceptual/mobilehig/)
 - [Google's Material Design Guidelines](http://www.google.com/design/spec/material-design/introduction.html)
