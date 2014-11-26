@@ -70,6 +70,7 @@ JavaScript (JS) is a dynamic computer programming language.[5] It is most common
 - [Prototype vs Revealing Module Pattern](http://www.stevefenton.co.uk/Content/Blog/Date/201312/Blog/JavaScript-Prototype-Vs-Revealing-Module-Pattern/)
 - [Javascript scoping and hoisting](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 - [Structuring a complex JSON schema](http://spacetelescope.github.io/understanding-json-schema/structuring.html)
+- [A overview of Angular, Ember and Backbone](http://www.airpair.com/js/javascript-framework-comparison)
 
 ###Libraries
 
@@ -103,6 +104,7 @@ Getting Started
 - [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide)
 - [Angular Styleguide](https://github.com/toddmotto/angularjs-styleguide)
 - [Learn Angular by Building a Gmail Clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/)
+- [Bite-sized video training with AngularJS](https://egghead.io/technologies/angularjs)
 
 Scopes
 - [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
@@ -135,8 +137,8 @@ Intermediate
 - [150 Angular JS Lesson (videos)](https://egghead.io/technologies/angularjs)
 - [Using Animate.css with Angular](http://www.jvandemo.com/how-to-create-cool-animations-with-angularjs-1-2-and-animate-css/)
 
-Reading Material
-- [A overview of Angular, Ember and Backbone](http://www.airpair.com/js/javascript-framework-comparison)
+Other
+- [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
 - [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)
 - [Recordings of Angular meetups (video)](https://www.youtube.com/playlist?list=PL53194065BA276ACA)
 - [Angular design patterns and best practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
@@ -228,6 +230,8 @@ Reading Material
 - [Projects, Applications, and Companies Using Node (great reference material)](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)
 - [Full stack javascript with MEAN and Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
 - [MEAN.js](https://github.com/meanjs/mean)
+- [RisingStack Node.js Style Guide](https://github.com/RisingStack/node-style-guide)
+- [Node.js Best Practices](http://blog.risingstack.com/node-js-best-practices/)
 
 ###Frameworks
 - [Express](http://expressjs.com/)
@@ -323,6 +327,7 @@ Data visualization
 - [Subtle Patterns (Free textures for your next web project)](http://subtlepatterns.com/)
 - [Google Fonts](https://www.google.com/fonts)
 - [Font Awesome (Font Awesome gives you scalable vector icons that can instantly be customized)](http://fortawesome.github.io/Font-Awesome/icons/)
+- [Little Big Details - Your daily dose of design inspiration.](http://littlebigdetails.com/)
 - [Font Awesome for Illustrator](http://www.mediafire.com/download/ms8s6ozkaotkvd7/font-awesome.ai)
 - [Brand Colors](http://brandcolors.net/)
 - [All your free stock images in one place](http://www.sitebuilderreport.com/stock-photo-search)
