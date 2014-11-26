@@ -5,7 +5,7 @@ A curated list of resources and tutorials for front-end engineers
 
 ##Table of Contents
 - [HTML](/README.md#html)
-- [CSS](/README.md#css)an
+- [CSS](/README.md#css)
   - [Preprocessors](/README.md#preprocessors)
 - [Javascript](/README.md#javascript)
   - [Reading Material](/README.md#reading-material)
