@@ -335,6 +335,7 @@ Data visualization
 ####Stock Images
 - [Unsplash (Free stock images)](http://unsplash.com/)
 - [Unsplash with search and filtering](http://www.arthurweill.fr/Unsplash/en)
+- [Aggregate of stock images](http://www.sitebuilderreport.com/stock-up)
 - [Jaymantri (Free stock images)](http://jaymantri.com)
 - [The Stocks (Free stock images)](http://thestocks.im/)
 - [Travel Coffeebook (Free stock images)](http://travelcoffeebook.tumblr.com/)
