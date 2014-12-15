@@ -201,6 +201,7 @@ Node.js is a runtime environment and a library for running applications written 
 - [Node Async Tutorial](http://justinklemm.com/node-js-async-tutorial/)
 - [Overview of Node with Mongo and Express](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 - [Building a Restful API with Node and Express](http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4)
+- [What is Node.js Exactly? - a beginners introduction to Nodejs](https://www.youtube.com/watch?v=pU9Q6oiQNd0&list=UUVTlvUkGslCV_h-nSAId8Sw)
 - [Learn to Use the New Router in Express 4](http://scotch.io/tutorials/javascript/learn-to-use-the-new-router-in-expressjs-4)
 - [Creating a Single Page Todo App with Node and Angular](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
 - [Building a complete MVC site with node/express](http://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168)
