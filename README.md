@@ -21,7 +21,7 @@ A curated list of resources and tutorials for front-end engineers
   - [MEAN Stack](/README.md#mean-stack)
   - [Architecture](/README.md#architecture)
   - [Templating](/README.md#templating)
-  - [Testing](/README.md#testing)
+  - [Testing](/README.md#testing)d
 - [Ruby](/README.md#ruby)
   - [Tutorials](/README.md#tutorials-2) 
   - [Frameworks](/README.md#frameworks-2)
@@ -325,6 +325,7 @@ Data visualization
 - [Subtle Patterns (Free textures for your next web project)](http://subtlepatterns.com/)
 - [Google Fonts](https://www.google.com/fonts)
 - [Font Awesome (Font Awesome gives you scalable vector icons that can instantly be customized)](http://fortawesome.github.io/Font-Awesome/icons/)
+- [Free HD videos loops for awesome landing pages](http://www.xstockvideo.com/)
 - [Little Big Details - Your daily dose of design inspiration.](http://littlebigdetails.com/)
 - [Font Awesome for Illustrator](http://www.mediafire.com/download/ms8s6ozkaotkvd7/font-awesome.ai)
 - [Brand Colors](http://brandcolors.net/)
