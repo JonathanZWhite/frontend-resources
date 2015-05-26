@@ -338,6 +338,7 @@ Data visualization
 - [Jaymantri (Free stock images)](http://jaymantri.com)
 - [The Stocks (Free stock images)](http://thestocks.im/)
 - [Travel Coffeebook (Free stock images)](http://travelcoffeebook.tumblr.com/)
+- [Pexels](http://www.pexels.com/?ref=producthunt)
 
 ##Workflow
 
