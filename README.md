@@ -1,9 +1,17 @@
+Web-Development-Resources
+=========================
+
+A curated list of resources and tutorials for web developers.
+It entails the frontend and Backend engineering development.
+This  will serve as a guide to everyone who is interested in web be it the design or the development 
+details. 
+
+
+##Table of Contents
+
 frontend-resources
 ==================
 
-A curated list of resources and tutorials for front-end engineers
-
-##Table of Contents
 - [HTML](/README.md#html)
 - [CSS](/README.md#css)
   - [Preprocessors](/README.md#preprocessors)
@@ -15,6 +23,22 @@ A curated list of resources and tutorials for front-end engineers
     - [Angular](/README.md#angular)
     - [React](/README.md#react)
     - [Polymer](/README.md#polymer)
+- [UI/UX Design](/README.md#uiux-design)
+  - [Inspiration](/README.md#inspiration)
+  - [Reading Material](/README.md#reading-material)
+  - [Resources](/README.md#resources)
+- [Workflow and Tools](/README.md#workflow)
+  - [Sublime](/README.md#workflow)
+  - [Yeoman Generator](/README.md#yeoman-generator)
+  - [JSHint](/README.md#js-hint)
+  - [Grunt](/README.md#grunt)
+  - [Bower](/README.md#bower)
+  - [LESS](/README.md#less)
+- [Extra Resources](/README.md#extra-resources)
+  - [Reading Material](/README.md#reading-material-1)
+
+Backend-resource
+=================
 - [Node](/README.md#node)
   - [Tutorials](/README.md#tutorials-1)
   - [Frameworks](/README.md#frameworks-1)
@@ -29,23 +53,18 @@ A curated list of resources and tutorials for front-end engineers
   - [Tutorials](/README.md#tutorials-3)
   - [Frameworks](/README.md#frameworks-3)
 - [Databases](/README.md#databases)
-- [UI/UX Design](/README.md#uiux-design)
-  - [Inspiration](/README.md#inspiration)
-  - [Reading Material](/README.md#reading-material)
-  - [Resources](/README.md#resources)
-- [Workflow](/README.md#workflow)
-  - [Sublime](/README.md#workflow)
-  - [Yeoman Generator](/README.md#yeoman-generator)
-  - [JSHint](/README.md#js-hint)
-  - [Grunt](/README.md#grunt)
-  - [Bower](/README.md#bower)
-  - [LESS](/README.md#less)
-- [Extra Resources](/README.md#extra-resources)
-  - [Reading Material](/README.md#reading-material-1)
+
+
+content
+=======
+
+> Please pay attention to the details of each section.
+
 
 ##HTML
 - [Semantic Markup](http://www.smashingmagazine.com/2011/11/18/html5-semantics/)
 - [Standards for flexible HTML and CSS](http://codeguide.co/)
+- []()
 
 ##CSS 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. 
@@ -191,109 +210,6 @@ Reading Materials
 - [Building modern apps with Polymer & Web Components](https://www.youtube.com/watch?v=VMVj_jR75vE)
 - [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/)
 
-##[Node](http://nodejs.org/)
-Node.js is a runtime environment and a library for running applications written in JavaScript outside the browser (for example, on the server). Node.js applications are designed to maximize throughput and efficiency, using non-blocking I/O and asynchronous events. Node.js applications run single-threaded, although Node.js uses multiple threads for file and network events. Node.js is commonly used for real time applications due to its asynchronous nature, allowing applications to display information faster for users without the need for refreshing.
-
-###Tutorials
-- [Node for Beginners](http://code.tutsplus.com/tutorials/nodejs-for-beginners--net-26314)
-- [Node Beginner (book)](http://www.nodebeginner.org/)
-- [Node School](http://nodeschool.io/)
-- [Node Async Tutorial](http://justinklemm.com/node-js-async-tutorial/)
-- [Overview of Node with Mongo and Express](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
-- [Building a Restful API with Node and Express](http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4)
-- [What is Node.js Exactly? - a beginners introduction to Nodejs](https://www.youtube.com/watch?v=pU9Q6oiQNd0&list=UUVTlvUkGslCV_h-nSAId8Sw)
-- [Learn to Use the New Router in Express 4](http://scotch.io/tutorials/javascript/learn-to-use-the-new-router-in-expressjs-4)
-- [Creating a Single Page Todo App with Node and Angular](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
-- [Building a complete MVC site with node/express](http://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168)
-- [Easy Node Authentication Setup](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local)
-- [Blog rolling with mongoDB, express and Node](http://howtonode.org/express-mongodb)
-- [Building an Angular and Express app](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-1/)
-- [Running Express.js in Production Mode](http://www.hacksparrow.com/running-express-js-in-production-mode.html)
-- [Keep a node.js server up with Forever](http://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever/)
-- [Running Express in production mode](http://www.hacksparrow.com/running-express-js-in-production-mode.html)
-
-Reading Material
-- [Why use Node](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
-- [Node explained (video)](https://www.youtube.com/watch?v=L0pjVcIsU6A)
-- [Node Control Flow](http://book.mixu.net/node/ch7.html)
-- [Why use closures](http://howtonode.org/why-use-closure)
-- [Node Best Practices](http://blog.risingstack.com/node-js-best-practices/)
-- [Error Handling in Node](http://www.joyent.com/developers/node/design/errors)
-- [Awesome Node resources](https://github.com/sindresorhus/awesome-nodejs)
-- [Node.js async in practice: When to use what?](http://www.sebastianseilund.com/nodejs-async-in-practice)
-- [Using $scope.$watch and $scope.$apply](http://stackoverflow.com/questions/15112584/using-scope-watch-and-scope-apply)
-- [Felix's Node.js Style Guide](http://nodeguide.com/style.html)
-- [Real Time Web Analytics with Node.js and Socket.IO](http://coenraets.org/blog/2012/10/real-time-web-analytics-with-node-js-and-socket-io/)
-- [Node RESTful API Authentication](http://stackoverflow.com/questions/14572600/passport-js-restful-auth)
-- [Projects, Applications, and Companies Using Node (great reference material)](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)
-- [Full stack javascript with MEAN and Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
-- [MEAN.js](https://github.com/meanjs/mean)
-- [RisingStack Node.js Style Guide](https://github.com/RisingStack/node-style-guide)
-- [Node.js Best Practices](http://blog.risingstack.com/node-js-best-practices/)
-
-###Frameworks
-- [Express](http://expressjs.com/)
-
-###MEAN Stack
-- [Introduction to MEAN](http://code.tutsplus.com/tutorials/introduction-to-the-mean-stack--cms-19918)
-- [Creating an RSS feed reader with the MEAN stack](http://code.tutsplus.com/tutorials/creating-an-rss-feed-reader-with-the-mean-stack--cms-20563?utm_source=Tuts+&utm_medium=website&utm_campaign=relatedtutorials&utm_content=sidebar&WT.mc_id=Tuts+_website_relatedtutorials_sidebar)
-
-###Architecture
-- [Hackathon Starter](https://github.com/sahat/hackathon-starter)
-- [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
-
-###Templating
-- [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
-- [Jade templating](http://jade-lang.com/)
-
-###Testing
-- [Mocha](http://visionmedia.github.io/mocha/)
-- [Arrow](https://github.com/yahoo/arrow)
-
-##[Ruby](https://www.ruby-lang.org/en/)
-A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
-
-###Tutorials
-- [Code Academy](http://www.codecademy.com/en/tracks/ruby)
-- [Ruby for Newbies (series)](http://code.tutsplus.com/series/ruby-for-newbies--net-18166)
-
-###Frameworks
-
-####[Rails](http://rubyonrails.org/)
-
-Tutorials
-- [Rails for Zombies (game)](http://railsforzombies.org/)
-- [Ruby on Rails Tutorial by Michael Hartl (book)](http://ruby.railstutorial.org/chapters)
-
-##[PHP](https://php.net/)
-PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language.
-
-###Tutorials
-- [Code Academy](http://www.codecademy.com/en/tracks/php)
-- [Object Oriented PHP (quick overview)](http://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762)
-- [The MVC Pattern and PHP](http://www.sitepoint.com/the-mvc-pattern-and-php-1/)
-
-###Frameworks
-- [Laravel (MVC based framework)](http://laravel.com/)
-
-##Databases
-
-####[MySQL](http://www.mysql.com/)
-MySQL is the most popular database system used with PHP.
-
-####[MongoDB](http://www.mongodb.org/)
-MongoDB (from "humongous") is an open-source document database, and the leading NoSQL database.
-- [Introduction to MongoDB](http://docs.mongodb.org/manual/)
-- [Data Modeling](http://docs.mongodb.org/manual/data-modeling/)
-- [Designing MongoDB Schemas with Embedded, Non-Embedded and Bucket Structures](https://www.openshift.com/blogs/designing-mongodb-schemas-with-embedded-non-embedded-and-bucket-structures)
-- [MongoDB Schema Design Basics (video)](https://www.youtube.com/watch?v=Mz320k-WREA)
-- [MongoDB relationships: embed or reference](http://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference)
-- [Example and use of Mongoose virtual attributes](http://mongoosejs.com/docs/2.7.x/docs/virtuals.html)
-
-####[CouchDB](http://couchdb.apache.org/)
-CouchDB is a database that completely embraces the web. Store your data with JSON documents. Access your documents and query your indexes with your web browser, via HTTP. Index, combine, and transform your documents with JavaScript.
-Tutorials
-- [Overview](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
 
 ##UI/UX Design
 
@@ -401,3 +317,108 @@ Sass is the most mature, stable, and powerful professional grade CSS extension l
 ###Reading Material
 - [Hammock driven development (video)](https://www.youtube.com/watch?v=f84n5oFoZBc)
 - [How to be a great software developer](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer)
+
+
+##[Node](http://nodejs.org/)
+Node.js is a runtime environment and a library for running applications written in JavaScript outside the browser (for example, on the server). Node.js applications are designed to maximize throughput and efficiency, using non-blocking I/O and asynchronous events. Node.js applications run single-threaded, although Node.js uses multiple threads for file and network events. Node.js is commonly used for real time applications due to its asynchronous nature, allowing applications to display information faster for users without the need for refreshing.
+
+###Tutorials
+- [Node for Beginners](http://code.tutsplus.com/tutorials/nodejs-for-beginners--net-26314)
+- [Node Beginner (book)](http://www.nodebeginner.org/)
+- [Node School](http://nodeschool.io/)
+- [Node Async Tutorial](http://justinklemm.com/node-js-async-tutorial/)
+- [Overview of Node with Mongo and Express](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+- [Building a Restful API with Node and Express](http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4)
+- [What is Node.js Exactly? - a beginners introduction to Nodejs](https://www.youtube.com/watch?v=pU9Q6oiQNd0&list=UUVTlvUkGslCV_h-nSAId8Sw)
+- [Learn to Use the New Router in Express 4](http://scotch.io/tutorials/javascript/learn-to-use-the-new-router-in-expressjs-4)
+- [Creating a Single Page Todo App with Node and Angular](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
+- [Building a complete MVC site with node/express](http://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168)
+- [Easy Node Authentication Setup](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local)
+- [Blog rolling with mongoDB, express and Node](http://howtonode.org/express-mongodb)
+- [Building an Angular and Express app](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-1/)
+- [Running Express.js in Production Mode](http://www.hacksparrow.com/running-express-js-in-production-mode.html)
+- [Keep a node.js server up with Forever](http://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever/)
+- [Running Express in production mode](http://www.hacksparrow.com/running-express-js-in-production-mode.html)
+
+Reading Material
+- [Why use Node](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
+- [Node explained (video)](https://www.youtube.com/watch?v=L0pjVcIsU6A)
+- [Node Control Flow](http://book.mixu.net/node/ch7.html)
+- [Why use closures](http://howtonode.org/why-use-closure)
+- [Node Best Practices](http://blog.risingstack.com/node-js-best-practices/)
+- [Error Handling in Node](http://www.joyent.com/developers/node/design/errors)
+- [Awesome Node resources](https://github.com/sindresorhus/awesome-nodejs)
+- [Node.js async in practice: When to use what?](http://www.sebastianseilund.com/nodejs-async-in-practice)
+- [Using $scope.$watch and $scope.$apply](http://stackoverflow.com/questions/15112584/using-scope-watch-and-scope-apply)
+- [Felix's Node.js Style Guide](http://nodeguide.com/style.html)
+- [Real Time Web Analytics with Node.js and Socket.IO](http://coenraets.org/blog/2012/10/real-time-web-analytics-with-node-js-and-socket-io/)
+- [Node RESTful API Authentication](http://stackoverflow.com/questions/14572600/passport-js-restful-auth)
+- [Projects, Applications, and Companies Using Node (great reference material)](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)
+- [Full stack javascript with MEAN and Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
+- [MEAN.js](https://github.com/meanjs/mean)
+- [RisingStack Node.js Style Guide](https://github.com/RisingStack/node-style-guide)
+- [Node.js Best Practices](http://blog.risingstack.com/node-js-best-practices/)
+
+###Frameworks
+- [Express](http://expressjs.com/)
+
+###MEAN Stack
+- [Introduction to MEAN](http://code.tutsplus.com/tutorials/introduction-to-the-mean-stack--cms-19918)
+- [Creating an RSS feed reader with the MEAN stack](http://code.tutsplus.com/tutorials/creating-an-rss-feed-reader-with-the-mean-stack--cms-20563?utm_source=Tuts+&utm_medium=website&utm_campaign=relatedtutorials&utm_content=sidebar&WT.mc_id=Tuts+_website_relatedtutorials_sidebar)
+
+###Architecture
+- [Hackathon Starter](https://github.com/sahat/hackathon-starter)
+- [Boilerplate (barebones)](https://github.com/JonathanZWhite/node-boilerplate)
+
+###Templating
+- [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
+- [Jade templating](http://jade-lang.com/)
+
+###Testing
+- [Mocha](http://visionmedia.github.io/mocha/)
+- [Arrow](https://github.com/yahoo/arrow)
+
+##[Ruby](https://www.ruby-lang.org/en/)
+A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
+
+###Tutorials
+- [Code Academy](http://www.codecademy.com/en/tracks/ruby)
+- [Ruby for Newbies (series)](http://code.tutsplus.com/series/ruby-for-newbies--net-18166)
+
+###Frameworks
+
+####[Rails](http://rubyonrails.org/)
+
+Tutorials
+- [Rails for Zombies (game)](http://railsforzombies.org/)
+- [Ruby on Rails Tutorial by Michael Hartl (book)](http://ruby.railstutorial.org/chapters)
+
+##[PHP](https://php.net/)
+PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language.
+
+###Tutorials
+- [Code Academy](http://www.codecademy.com/en/tracks/php)
+- [Object Oriented PHP (quick overview)](http://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762)
+- [The MVC Pattern and PHP](http://www.sitepoint.com/the-mvc-pattern-and-php-1/)
+
+###Frameworks
+- [Laravel (MVC based framework)](http://laravel.com/)
+
+##Databases
+
+####[MySQL](http://www.mysql.com/)
+MySQL is the most popular database system used with PHP.
+
+####[MongoDB](http://www.mongodb.org/)
+MongoDB (from "humongous") is an open-source document database, and the leading NoSQL database.
+- [Introduction to MongoDB](http://docs.mongodb.org/manual/)
+- [Data Modeling](http://docs.mongodb.org/manual/data-modeling/)
+- [Designing MongoDB Schemas with Embedded, Non-Embedded and Bucket Structures](https://www.openshift.com/blogs/designing-mongodb-schemas-with-embedded-non-embedded-and-bucket-structures)
+- [MongoDB Schema Design Basics (video)](https://www.youtube.com/watch?v=Mz320k-WREA)
+- [MongoDB relationships: embed or reference](http://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference)
+- [Example and use of Mongoose virtual attributes](http://mongoosejs.com/docs/2.7.x/docs/virtuals.html)
+
+####[CouchDB](http://couchdb.apache.org/)
+CouchDB is a database that completely embraces the web. Store your data with JSON documents. Access your documents and query your indexes with your web browser, via HTTP. Index, combine, and transform your documents with JavaScript.
+Tutorials
+- [Overview](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
