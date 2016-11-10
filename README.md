@@ -372,7 +372,10 @@ Reading Material
 
 ###Templating
 - [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
-- [Pug templating](http://jade-lang.com/)
+- [Pug templating- formerly/Popularly called Jade](http://jade-lang.com/)
+	-[Pug](https://pugjs.org/)
+	-[Learn Jade](www.learnjade.com)
+
 - [Ejs templating](http://www.embeddedjs.com/)
      -[Embedded JavaScript templates](https://www.npmjs.com/package/ejs)
      -[Effective JavaScript Templating]( http://ejs.co)
