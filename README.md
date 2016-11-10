@@ -45,7 +45,7 @@ Backend-resource
   - [MEAN Stack](/README.md#mean-stack)
   - [Architecture](/README.md#architecture)
   - [Templating](/README.md#templating)
-  - [Testing](/README.md#testing)d
+  - [Testing](/README.md#testing)
 - [Ruby](/README.md#ruby)
   - [Tutorials](/README.md#tutorials-2) 
   - [Frameworks](/README.md#frameworks-2)
@@ -54,6 +54,9 @@ Backend-resource
   - [Frameworks](/README.md#frameworks-3)
 - [Databases](/README.md#databases)
 
+Others(Optional)
+=================
+ - [Version Control](/README.md#version)
 
 content
 =======
@@ -383,8 +386,11 @@ Reading Material
 ###Testing
 - [Mocha](http://visionmedia.github.io/mocha/)
 - [Arrow](https://github.com/yahoo/arrow)
+- [Jasmine node]()
+- [Jest]()
+- [Enzyme]()
 
-##[Ruby](https://www.ruby-lang.org/en/)
+## [Ruby](https://www.ruby-lang.org/en/)
 A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
 
 ###Tutorials
@@ -399,23 +405,24 @@ Tutorials
 - [Rails for Zombies (game)](http://railsforzombies.org/)
 - [Ruby on Rails Tutorial by Michael Hartl (book)](http://ruby.railstutorial.org/chapters)
 
-##[PHP](https://php.net/)
+## [PHP](https://php.net/)
 PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language.
 
-###Tutorials
+### Tutorials
 - [Code Academy](http://www.codecademy.com/en/tracks/php)
 - [Object Oriented PHP (quick overview)](http://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762)
 - [The MVC Pattern and PHP](http://www.sitepoint.com/the-mvc-pattern-and-php-1/)
 
-###Frameworks
+### Frameworks
 - [Laravel (MVC based framework)](http://laravel.com/)
 
-##Databases
+## Databases
 
-####[MySQL](http://www.mysql.com/)
+#### [MySQL](http://www.mysql.com/)
 MySQL is the most popular database system used with PHP.
+MySQL has a Javascript driver.
 
-####[MongoDB](http://www.mongodb.org/)
+#### [MongoDB](http://www.mongodb.org/)
 MongoDB (from "humongous") is an open-source document database, and the leading NoSQL database.
 - [Introduction to MongoDB](http://docs.mongodb.org/manual/)
 - [Data Modeling](http://docs.mongodb.org/manual/data-modeling/)
@@ -424,16 +431,23 @@ MongoDB (from "humongous") is an open-source document database, and the leading 
 - [MongoDB relationships: embed or reference](http://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference)
 - [Example and use of Mongoose virtual attributes](http://mongoosejs.com/docs/2.7.x/docs/virtuals.html)
 
-####[CouchDB](http://couchdb.apache.org/)
+#### [CouchDB](http://couchdb.apache.org/)
 CouchDB is a database that completely embraces the web. Store your data with JSON documents. Access your documents and query your indexes with your web browser, via HTTP. Index, combine, and transform your documents with JavaScript.
 Tutorials
-- [Overview](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
+- [Overview of Crouch DB](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
 
-#### [Git]()
-Version control
-- [] 
-- [git-tips]()
+---------------- Everything below this point is optional ----------------
+#### Version control
+A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information.
+
+[**git**](https://git-scm.com/) 
+- [git-tips](http://git.io/git-tips)
+- [git-guide](http://rogerdudler.github.io/git-guide/)
+- []()
 #### [Github](http://www.github.com)
+- [:computer: :mortar_board: Learn Git and GitHub.](http://jlord.us/git-it/)
 
+#### [Markdown-Cheatsheet ]()
+> It is useful in commmunication or collaboration. 
 
-
+- [Mastering Github Flavoured Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
