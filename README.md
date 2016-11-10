@@ -372,8 +372,11 @@ Reading Material
 
 ###Templating
 - [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
-- [Jade templating](http://jade-lang.com/)
-
+- [Pug templating](http://jade-lang.com/)
+- [Ejs templating](http://www.embeddedjs.com/)
+     -[Embedded JavaScript templates](https://www.npmjs.com/package/ejs)
+     -[Effective JavaScript Templating]( http://ejs.co)
+     -[EJS Github Repo](https://github.com/mde/ejs)
 ###Testing
 - [Mocha](http://visionmedia.github.io/mocha/)
 - [Arrow](https://github.com/yahoo/arrow)
@@ -422,3 +425,12 @@ MongoDB (from "humongous") is an open-source document database, and the leading 
 CouchDB is a database that completely embraces the web. Store your data with JSON documents. Access your documents and query your indexes with your web browser, via HTTP. Index, combine, and transform your documents with JavaScript.
 Tutorials
 - [Overview](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
+
+#### [Git]()
+Version control
+- [] 
+- [git-tips]()
+#### [Github](http://www.github.com)
+
+
+
