@@ -405,24 +405,24 @@ Tutorials
 - [Rails for Zombies (game)](http://railsforzombies.org/)
 - [Ruby on Rails Tutorial by Michael Hartl (book)](http://ruby.railstutorial.org/chapters)
 
-## [PHP](https://php.net/)
+##[PHP](https://php.net/)
 PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language.
 
-### Tutorials
+###Tutorials
 - [Code Academy](http://www.codecademy.com/en/tracks/php)
 - [Object Oriented PHP (quick overview)](http://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762)
 - [The MVC Pattern and PHP](http://www.sitepoint.com/the-mvc-pattern-and-php-1/)
 
-### Frameworks
+###Frameworks
 - [Laravel (MVC based framework)](http://laravel.com/)
 
 ## Databases
 
-#### [MySQL](http://www.mysql.com/)
+####[MySQL](http://www.mysql.com/)
 MySQL is the most popular database system used with PHP.
 MySQL has a Javascript driver.
 
-#### [MongoDB](http://www.mongodb.org/)
+####[MongoDB](http://www.mongodb.org/)
 MongoDB (from "humongous") is an open-source document database, and the leading NoSQL database.
 - [Introduction to MongoDB](http://docs.mongodb.org/manual/)
 - [Data Modeling](http://docs.mongodb.org/manual/data-modeling/)
@@ -431,20 +431,20 @@ MongoDB (from "humongous") is an open-source document database, and the leading 
 - [MongoDB relationships: embed or reference](http://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference)
 - [Example and use of Mongoose virtual attributes](http://mongoosejs.com/docs/2.7.x/docs/virtuals.html)
 
-#### [CouchDB](http://couchdb.apache.org/)
+####[CouchDB](http://couchdb.apache.org/)
 CouchDB is a database that completely embraces the web. Store your data with JSON documents. Access your documents and query your indexes with your web browser, via HTTP. Index, combine, and transform your documents with JavaScript.
 Tutorials
 - [Overview of Crouch DB](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
 
 ---------------- Everything below this point is optional ----------------
-#### Version control
+####Version control
 A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information.
 
 [**git**](https://git-scm.com/) 
 - [git-tips](http://git.io/git-tips)
 - [git-guide](http://rogerdudler.github.io/git-guide/)
 - []()
-#### [Github](http://www.github.com)
+####[Github](http://www.github.com)
 - [:computer: :mortar_board: Learn Git and GitHub.](http://jlord.us/git-it/)
 
 #### [Markdown-Cheatsheet ]()
