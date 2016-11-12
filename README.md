@@ -444,7 +444,13 @@ A component of software configuration management, version control, also known as
 [**git**](https://git-scm.com/) 
 - [git-tips](http://git.io/git-tips)
 - [git-guide](http://rogerdudler.github.io/git-guide/)
-- []()
+- In built git tutorial after innstalling git.
+ > Use the following git command line to ope the tutorial on the web.
+ 
+ `$ git help -g`
+
+ `$ git help tutorial`
+  
 ####[Github](http://www.github.com)
 - [:computer: :mortar_board: Learn Git and GitHub.](http://jlord.us/git-it/)
 
