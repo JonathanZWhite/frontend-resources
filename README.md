@@ -426,6 +426,7 @@ MySQL has a Javascript driver.
 MongoDB (from "humongous") is an open-source document database, and the leading NoSQL database.
 - [Introduction to MongoDB](http://docs.mongodb.org/manual/)
 - [Data Modeling](http://docs.mongodb.org/manual/data-modeling/)
+- [Online Courses on mongodb- M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/)
 - [Designing MongoDB Schemas with Embedded, Non-Embedded and Bucket Structures](https://www.openshift.com/blogs/designing-mongodb-schemas-with-embedded-non-embedded-and-bucket-structures)
 - [MongoDB Schema Design Basics (video)](https://www.youtube.com/watch?v=Mz320k-WREA)
 - [MongoDB relationships: embed or reference](http://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference)
