@@ -439,6 +439,7 @@ Tutorials
 - [Overview of Crouch DB](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
 
 ---------------- Everything below this point is optional ----------------
+
 ####Version-control
 A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information.
 
@@ -456,7 +457,6 @@ A component of software configuration management, version control, also known as
 ####[Github](http://www.github.com)
 - []()
 - [Github](http://www.github.com)
->>>>>>> b50a8e0f5ee8cf514436cfea65ca5e7aa83a7df7
 - [:computer: :mortar_board: Learn Git and GitHub.](http://jlord.us/git-it/)
 
 ####[Markdown-Cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -464,5 +464,5 @@ A component of software configuration management, version control, also known as
 
 - [Mastering Github Flavoured Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
 
-####[frontend-guidelines]
--[Bendc frontend(HTML,css,js) guideline-Adapted from [Airbnb JS style guide](https://github.com/airbnb/javascript)](https://github.com/bendc/frontend-guidelines)
+####frontend-guidelines
+- [Bendc frontend(HTML,css,js) guideline-Adapted from [Airbnb JS style guide](https://github.com/airbnb/javascript)](https://github.com/bendc/frontend-guidelines)
