@@ -462,7 +462,7 @@ A component of software configuration management, version control, also known as
 ####[Markdown-Cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 > It is useful in commmunication or collaboration. 
 
-- [Mastering Github Flavoured Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
+- [Mastering Github Flavoured Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ####frontend-guidelines
 - [Bendc frontend(HTML,css,js) guideline-Adapted from [Airbnb JS style guide](https://github.com/airbnb/javascript)](https://github.com/bendc/frontend-guidelines)
