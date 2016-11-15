@@ -12,7 +12,7 @@ details.
 frontend-resources
 ==================
 
-- [HTML](/README.md#html)
+- [HTML](#html)
 - [CSS](/README.md#css)
   - [Preprocessors](/README.md#preprocessors)
 - [Javascript](/README.md#javascript)
@@ -45,7 +45,7 @@ Backend-resource
   - [MEAN Stack](/README.md#mean-stack)
   - [Architecture](/README.md#architecture)
   - [Templating](/README.md#templating)
-  - [Testing](/README.md#testing)d
+  - [Testing](/README.md#testing)
 - [Ruby](/README.md#ruby)
   - [Tutorials](/README.md#tutorials-2) 
   - [Frameworks](/README.md#frameworks-2)
@@ -54,7 +54,11 @@ Backend-resource
   - [Frameworks](/README.md#frameworks-3)
 - [Databases](/README.md#databases)
 
-
+Others(Optional)
+=================
+ - [Version Control](/README.md#version-control)
+ - [HTML, CSS and JS Guidelines](#frontend-guidelines)
+ 
 content
 =======
 
@@ -372,13 +376,22 @@ Reading Material
 
 ###Templating
 - [Dust templating](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
-- [Jade templating](http://jade-lang.com/)
+- [Pug templating- formerly/Popularly called Jade](http://jade-lang.com/)
+	-[Pug](https://pugjs.org/)
+	-[Learn Jade](www.learnjade.com)
 
+- [Ejs templating](http://www.embeddedjs.com/)
+     -[Embedded JavaScript templates](https://www.npmjs.com/package/ejs)
+     -[Effective JavaScript Templating]( http://ejs.co)
+     -[EJS Github Repo](https://github.com/mde/ejs)
 ###Testing
 - [Mocha](http://visionmedia.github.io/mocha/)
 - [Arrow](https://github.com/yahoo/arrow)
+- [Jasmine-node]()
+- [Jest]()
+- [Enzyme]()
 
-##[Ruby](https://www.ruby-lang.org/en/)
+## [Ruby](https://www.ruby-lang.org/en/)
 A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
 
 ###Tutorials
@@ -404,15 +417,17 @@ PHP is a server-side scripting language designed for web development but also us
 ###Frameworks
 - [Laravel (MVC based framework)](http://laravel.com/)
 
-##Databases
+## Databases
 
 ####[MySQL](http://www.mysql.com/)
 MySQL is the most popular database system used with PHP.
+MySQL has a Javascript driver.
 
 ####[MongoDB](http://www.mongodb.org/)
 MongoDB (from "humongous") is an open-source document database, and the leading NoSQL database.
 - [Introduction to MongoDB](http://docs.mongodb.org/manual/)
 - [Data Modeling](http://docs.mongodb.org/manual/data-modeling/)
+- [Online Courses on mongodb- M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/)
 - [Designing MongoDB Schemas with Embedded, Non-Embedded and Bucket Structures](https://www.openshift.com/blogs/designing-mongodb-schemas-with-embedded-non-embedded-and-bucket-structures)
 - [MongoDB Schema Design Basics (video)](https://www.youtube.com/watch?v=Mz320k-WREA)
 - [MongoDB relationships: embed or reference](http://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference)
@@ -421,4 +436,33 @@ MongoDB (from "humongous") is an open-source document database, and the leading 
 ####[CouchDB](http://couchdb.apache.org/)
 CouchDB is a database that completely embraces the web. Store your data with JSON documents. Access your documents and query your indexes with your web browser, via HTTP. Index, combine, and transform your documents with JavaScript.
 Tutorials
-- [Overview](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
+- [Overview of Crouch DB](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
+
+---------------- Everything below this point is optional ----------------
+
+####Version-control
+A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information.
+
+- [**git**](https://git-scm.com/) 
+- [git-tips](http://git.io/git-tips)
+- [git-guide](http://rogerdudler.github.io/git-guide/)
+<<<<<<< HEAD
+- In built git tutorial after innstalling git.
+ > Use the following git command line to ope the tutorial on the web.
+ 
+ `$ git help -g`
+
+ `$ git help tutorial`
+  
+####[Github](http://www.github.com)
+- []()
+- [Github](http://www.github.com)
+- [:computer: :mortar_board: Learn Git and GitHub.](http://jlord.us/git-it/)
+
+####[Markdown-Cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+> It is useful in commmunication or collaboration. 
+
+- [Mastering Github Flavoured Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+
+####frontend-guidelines
+- [Bendc frontend(HTML,css,js) guideline-Adapted from [Airbnb JS style guide](https://github.com/airbnb/javascript)](https://github.com/bendc/frontend-guidelines)
