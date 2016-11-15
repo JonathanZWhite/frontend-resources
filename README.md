@@ -57,7 +57,7 @@ Backend-resource
 Others(Optional)
 =================
  - [Version Control](/README.md#version-control)
- - [HTML, CSS and JS Guidelines](#guidelines)
+ - [HTML, CSS and JS Guidelines](#frontend-guidelines)
  
 content
 =======
@@ -464,5 +464,5 @@ A component of software configuration management, version control, also known as
 
 - [Mastering Github Flavoured Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
 
-####[frontend guidelines](https://github.com/bendc/frontend-guidelines)
-
+####[frontend-guidelines]
+-[Bendc frontend(HTML,css,js) guideline-Adapted from [Airbnb JS style guide](https://github.com/airbnb/javascript)](https://github.com/bendc/frontend-guidelines)
