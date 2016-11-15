@@ -12,7 +12,7 @@ details.
 frontend-resources
 ==================
 
-- [HTML](/README.md#html)
+- [HTML](#html)
 - [CSS](/README.md#css)
   - [Preprocessors](/README.md#preprocessors)
 - [Javascript](/README.md#javascript)
@@ -57,7 +57,8 @@ Backend-resource
 Others(Optional)
 =================
  - [Version Control](/README.md#version)
-
+ - [HTML, CSS and JS Guidelines](#guidelines)
+ 
 content
 =======
 
@@ -457,4 +458,7 @@ A component of software configuration management, version control, also known as
 #### [Markdown-Cheatsheet ]()
 > It is useful in commmunication or collaboration. 
 
-- [Mastering Github Flavoured Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+- [Mastering Github Flavoured Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
+
+#### [frontend guidelines]((https://github.com/bendc/frontend-guidelines))
+
