@@ -442,9 +442,10 @@ Tutorials
 ####Version control
 A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information.
 
-[**git**](https://git-scm.com/) 
+- [**git**](https://git-scm.com/) 
 - [git-tips](http://git.io/git-tips)
 - [git-guide](http://rogerdudler.github.io/git-guide/)
+<<<<<<< HEAD
 - In built git tutorial after innstalling git.
  > Use the following git command line to ope the tutorial on the web.
  
@@ -453,9 +454,13 @@ A component of software configuration management, version control, also known as
  `$ git help tutorial`
   
 ####[Github](http://www.github.com)
+=======
+- []()
+- [Github](http://www.github.com)
+>>>>>>> b50a8e0f5ee8cf514436cfea65ca5e7aa83a7df7
 - [:computer: :mortar_board: Learn Git and GitHub.](http://jlord.us/git-it/)
 
-#### [Markdown-Cheatsheet ]()
+#### [Markdown-Cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 > It is useful in commmunication or collaboration. 
 
 - [Mastering Github Flavoured Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
