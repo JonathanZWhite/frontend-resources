@@ -56,7 +56,7 @@ Backend-resource
 
 Others(Optional)
 =================
- - [Version Control](/README.md#version)
+ - [Version Control](/README.md#version-control)
  - [HTML, CSS and JS Guidelines](#guidelines)
  
 content
@@ -387,7 +387,7 @@ Reading Material
 ###Testing
 - [Mocha](http://visionmedia.github.io/mocha/)
 - [Arrow](https://github.com/yahoo/arrow)
-- [Jasmine node]()
+- [Jasmine-node]()
 - [Jest]()
 - [Enzyme]()
 
@@ -439,7 +439,7 @@ Tutorials
 - [Overview of Crouch DB](http://code.tutsplus.com/articles/getting-started-with-couchdb--net-18801)
 
 ---------------- Everything below this point is optional ----------------
-####Version control
+####Version-control
 A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information.
 
 - [**git**](https://git-scm.com/) 
@@ -454,16 +454,15 @@ A component of software configuration management, version control, also known as
  `$ git help tutorial`
   
 ####[Github](http://www.github.com)
-=======
 - []()
 - [Github](http://www.github.com)
 >>>>>>> b50a8e0f5ee8cf514436cfea65ca5e7aa83a7df7
 - [:computer: :mortar_board: Learn Git and GitHub.](http://jlord.us/git-it/)
 
-#### [Markdown-Cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+####[Markdown-Cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 > It is useful in commmunication or collaboration. 
 
 - [Mastering Github Flavoured Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
 
-#### [frontend guidelines]((https://github.com/bendc/frontend-guidelines))
+####[frontend guidelines](https://github.com/bendc/frontend-guidelines)
 
