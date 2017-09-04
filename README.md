@@ -385,7 +385,7 @@ Reading Material
      -[Effective JavaScript Templating]( http://ejs.co)
      -[EJS Github Repo](https://github.com/mde/ejs)
 ###Testing
-- [Mocha](http://visionmedia.github.io/mocha/)
+- [Mocha](https://mochajs.org/)
 - [Arrow](https://github.com/yahoo/arrow)
 - [Jasmine-node]()
 - [Jest]()
