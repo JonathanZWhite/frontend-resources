@@ -249,6 +249,7 @@ Data visualization
 - [Little Big Details - Your daily dose of design inspiration.](http://littlebigdetails.com/)
 - [Font Awesome for Illustrator](http://www.mediafire.com/download/ms8s6ozkaotkvd7/font-awesome.ai)
 - [Brand Colors](http://brandcolors.net/)
+- [Branition Colors](https://branition.com/colors)
 - [All your free stock images in one place](http://www.sitebuilderreport.com/stock-photo-search)
 
 ####Stock Images
